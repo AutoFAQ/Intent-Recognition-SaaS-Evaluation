@@ -10,6 +10,9 @@ Train and test data placed in data/ folder.
 Each SaaS reproduce results script placed in jupyter notebook.
 There is no Cognigy notebook because of sign in problem, so we used their evaluation metrics from 2020.
 
+HWU64-10 is data from [1] which consists of 64 intents, 10 train sample per intent, and 1076 test examples (data/hwu_small*).
+HWU64-30 is also data from [1] which consists of 64 intents, 30 train sample per intent, and 5518 test examples (data/hwu_large*).
+
 # Results
 
 | SaaS name       | F1-macro (HWU64-10)  | Accuracy (HWU64-10)  | F1-macro (HWU64-30)  | Accuracy (HWU64-30)  | Response time (sec.) per query |
