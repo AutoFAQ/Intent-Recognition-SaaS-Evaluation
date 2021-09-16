@@ -1,0 +1,1908 @@
+play_music,exampleSentence,i want to hear radio head please
+play_music,exampleSentence,play for me the music by the beatles
+play_music,exampleSentence,play happy playlist next
+play_music,exampleSentence,play the song for me
+play_music,exampleSentence,play the electronic playlist
+play_music,exampleSentence,play the barney theme song
+play_music,exampleSentence,play my favorite music
+play_music,exampleSentence,play a song that will make me smile
+play_music,exampleSentence,coordinate all pop song genres
+play_music,exampleSentence,play only songs by the beatles please
+play_music,exampleSentence,play the last song from my most recent playlist
+play_music,exampleSentence,go to youtube and play me the best wedding songs collection
+play_music,exampleSentence,hey play me a popular country song
+play_music,exampleSentence,select and play only christian rock from one thousand nine hundred and ninety upwards
+play_music,exampleSentence,play all songs by martina mcbride
+play_music,exampleSentence,show me the best podcast of folk songs having good rating and play it
+play_music,exampleSentence,play my preferred song
+play_music,exampleSentence,turn on the tunes
+play_music,exampleSentence,get sia's cheap thrills ready to play next
+play_music,exampleSentence,i want to hear my favorite jazz music genre
+play_music,exampleSentence,play the song title
+play_music,exampleSentence,play all by the beatles
+play_music,exampleSentence,let's hear some indie rock okay
+play_music,exampleSentence,next i want to hear shinedown
+play_music,exampleSentence,now playing
+play_music,exampleSentence,play my morning playlist
+play_music,exampleSentence,try to play old nineties classic music
+play_music,exampleSentence,find and queue all songs of kate perry and play all without shuffling
+play_music,exampleSentence,i would like to hear the theme song to this is us
+play_music,exampleSentence,play green day
+transport_query,exampleSentence,route to melbourne
+transport_query,exampleSentence,i need the arrival time for new york train
+transport_query,exampleSentence,directions to virginia beach va
+transport_query,exampleSentence,what is time of indianapolis express
+transport_query,exampleSentence,directions to nearest apple store
+transport_query,exampleSentence,next train to dc
+transport_query,exampleSentence,what time does the train arrive at edinburgh
+transport_query,exampleSentence,take me to tnagar
+transport_query,exampleSentence,when is the next train to new york
+transport_query,exampleSentence,get me directions to meijer
+transport_query,exampleSentence,how much is a train ticket to san fransisco
+transport_query,exampleSentence,what is the estimated travel time for the train ride to orlando
+transport_query,exampleSentence,what time does the first train depart from chicago
+transport_query,exampleSentence,how do i get to the grocery store
+transport_query,exampleSentence,show me the shortest route towards nearest train station
+transport_query,exampleSentence,how far is the distance to rccg ikoyi lagos from here by train
+transport_query,exampleSentence,where can i book a train ticket to oregon
+transport_query,exampleSentence,what time does the last train arrive in dallas
+transport_query,exampleSentence,give me the driving directions from faripir to gurpur
+transport_query,exampleSentence,how to go to multi specialty hospital
+transport_query,exampleSentence,tell me the exact arrival time of train from newcastle to edinburgh
+transport_query,exampleSentence,how long i can go to dundee
+transport_query,exampleSentence,can you find me a train ticket to montauk
+transport_query,exampleSentence,calculate the travel time if i go to orlando by train
+transport_query,exampleSentence,how long does it take to get the train from rome to paris
+transport_query,exampleSentence,please tell em the list of trains to chicago via california
+transport_query,exampleSentence,what is the time of the morning train headed to chicago
+transport_query,exampleSentence,how far is it from tokyo to dallas
+transport_query,exampleSentence,how do i book a train ticket online
+transport_query,exampleSentence,can you reserve a ticket to grand rapids by train
+email_query,exampleSentence,what did the clinic say about my exams
+email_query,exampleSentence,did my mom send me an email
+email_query,exampleSentence,check emails from gary for last hour
+email_query,exampleSentence,tell me when i get new emails from principal lowry
+email_query,exampleSentence,how is my inbox looking at the moment
+email_query,exampleSentence,what is my email from steve about
+email_query,exampleSentence,who has sent me an email in the past week
+email_query,exampleSentence,have i received any emails about jared's birthday
+email_query,exampleSentence,check my email messages
+email_query,exampleSentence,can you please read the my mom sent this morning at ten am
+email_query,exampleSentence,check emails
+email_query,exampleSentence,did i get an email from jen last night
+email_query,exampleSentence,pull up all emails sent to me from amazon
+email_query,exampleSentence,have i received any mail in the last hour
+email_query,exampleSentence,have i received any emails from my father
+email_query,exampleSentence,do i have an email from person a
+email_query,exampleSentence,any new email since last time
+email_query,exampleSentence,find my email for date
+email_query,exampleSentence,do i have any emails from robert
+email_query,exampleSentence,give a last minute update on incoming emails please
+email_query,exampleSentence,how many emails do i have from work today
+email_query,exampleSentence,has mike sent me an email
+email_query,exampleSentence,display latest emails
+email_query,exampleSentence,are there any unread emails from patrick
+email_query,exampleSentence,have i received any emails from beth
+email_query,exampleSentence,check all the new them emails and mark them star
+email_query,exampleSentence,find new email
+email_query,exampleSentence,are there new emails for me
+email_query,exampleSentence,new messages
+email_query,exampleSentence,read me the last email from stefan and oil change
+general_explain,exampleSentence,s2
+general_explain,exampleSentence,would you please elaborate more on your response to me.
+general_explain,exampleSentence,s1
+general_explain,exampleSentence,what did you mean by saying it.
+general_explain,exampleSentence,will you please rephrase me further on that.
+general_explain,exampleSentence,please will you elaborate further on last sentence.
+general_explain,exampleSentence,please elaborate once again to me.
+general_explain,exampleSentence,please rephrase more on what you have just said to me.
+general_explain,exampleSentence,can you please clarify once again.
+general_explain,exampleSentence,please further elaborate your response.
+general_explain,exampleSentence,s1
+general_explain,exampleSentence,will you further elaborate me on it please.
+general_explain,exampleSentence,i was not so clear about what you've said.
+general_explain,exampleSentence,can you please clarify me more on your answers.
+general_explain,exampleSentence,your answer is not clear.
+general_explain,exampleSentence,can you please clarify me more on your answer.
+general_explain,exampleSentence,could not understand it.
+general_explain,exampleSentence,s1
+general_explain,exampleSentence,s1
+general_explain,exampleSentence,could you again elaborate me on your answers please.
+general_explain,exampleSentence,s2
+general_explain,exampleSentence,could you please again clarify your answer to me.
+general_explain,exampleSentence,explain further please.
+general_explain,exampleSentence,s1
+general_explain,exampleSentence,s1
+general_explain,exampleSentence,can you explain once again.
+general_explain,exampleSentence,explain it further please.
+general_explain,exampleSentence,again clarify me on your answers.
+general_explain,exampleSentence,s2
+general_explain,exampleSentence,can you please further explain me about that.
+general_affirm,exampleSentence,yes you have gotten it exactly.
+general_affirm,exampleSentence,yeah get that correcly.
+general_affirm,exampleSentence,you've understood my instructions exactly.
+general_affirm,exampleSentence,yes answer was confirmed.
+general_affirm,exampleSentence,good response to command.
+general_affirm,exampleSentence,yeap amazing response to the command.
+general_affirm,exampleSentence,yeap you've gotten the command correcly.
+general_affirm,exampleSentence,yes answer was amazing.
+general_affirm,exampleSentence,yeap you have done answer exactly.
+general_affirm,exampleSentence,yeah you got your understanding perfectly.
+general_affirm,exampleSentence,it's perfect.
+general_affirm,exampleSentence,you've understood command perfectly.
+general_affirm,exampleSentence,yeap you've understood my instructions perfectly.
+general_affirm,exampleSentence,yeah wonderful response.
+general_affirm,exampleSentence,yes great response to the command.
+general_affirm,exampleSentence,yeap excellent response to the command.
+general_affirm,exampleSentence,amazing response to the command.
+general_affirm,exampleSentence,yes fantastic response.
+general_affirm,exampleSentence,yeah correct response to the command.
+general_affirm,exampleSentence,yeap you've got command correcly.
+general_affirm,exampleSentence,you've done the command correcly.
+general_affirm,exampleSentence,yeah you've understood my instructions perfectly.
+general_affirm,exampleSentence,yes strongly agree.
+general_affirm,exampleSentence,you got the command right.
+general_affirm,exampleSentence,you have gotten that exactly.
+general_affirm,exampleSentence,get command exactly.
+general_affirm,exampleSentence,yes you've done command exactly.
+general_affirm,exampleSentence,yeap great response.
+general_affirm,exampleSentence,yeap it's confirmed.
+general_affirm,exampleSentence,yes it's confirmed.
+play_radio,exampleSentence,play program on xmtune please
+play_radio,exampleSentence,play new radio channel
+play_radio,exampleSentence,turn on radio
+play_radio,exampleSentence,go to the station fm ninety six point five
+play_radio,exampleSentence,would you please turn on the am radio
+play_radio,exampleSentence,find the best rock station near my location and turn it on
+play_radio,exampleSentence,please play the local latin music channel on the radio
+play_radio,exampleSentence,i would like to listen to this programme on radio
+play_radio,exampleSentence,play the bob and tom show
+play_radio,exampleSentence,find joel osteen's broadcast on sirius
+play_radio,exampleSentence,please turn on radio on seven am
+play_radio,exampleSentence,play for me american idol show
+play_radio,exampleSentence,put the radio on
+play_radio,exampleSentence,play my favorite station
+play_radio,exampleSentence,turn on a country music station
+play_radio,exampleSentence,can you play acoustic music with no commercials
+play_radio,exampleSentence,play npr through my living room stereo
+play_radio,exampleSentence,press play on the radio
+play_radio,exampleSentence,tune in some radio
+play_radio,exampleSentence,show me upcoming programmes on one hundred and five point one
+play_radio,exampleSentence,please go to the local sports talk show on the radio
+play_radio,exampleSentence,what are the new rock radio stations
+play_radio,exampleSentence,play the breakfast club
+play_radio,exampleSentence,play radio disney
+play_radio,exampleSentence,tune in to my favorite radio station please
+play_radio,exampleSentence,open fm
+play_radio,exampleSentence,play sam harris please
+play_radio,exampleSentence,i want to listen to today's hits
+play_radio,exampleSentence,let's have the radio on
+play_radio,exampleSentence,play for me american idol on television
+alarm_set,exampleSentence,set the alarm for nine am on weekends
+alarm_set,exampleSentence,turn my morning alarm on
+alarm_set,exampleSentence,i want an alarm for three today
+alarm_set,exampleSentence,set new alarm on five am
+alarm_set,exampleSentence,please set an alarm for seven hundred and thirty am tomorrow
+alarm_set,exampleSentence,i need to set an alarm for next friday at noon
+alarm_set,exampleSentence,alarm
+alarm_set,exampleSentence,Set a alarm for the day
+alarm_set,exampleSentence,set an alarm at six in the morning
+alarm_set,exampleSentence,set an alarm for me at eight am
+alarm_set,exampleSentence,wake me up at time
+alarm_set,exampleSentence,set my alarm for six am
+alarm_set,exampleSentence,make an alarm to help me remember
+alarm_set,exampleSentence,set alarm for tomorrow at two pm
+alarm_set,exampleSentence,please set alarm at five pm
+alarm_set,exampleSentence,set my alarm for time
+alarm_set,exampleSentence,i need a reminder alarm at one
+alarm_set,exampleSentence,i need to get up at ten tomorrow
+alarm_set,exampleSentence,set alarm for nine am
+alarm_set,exampleSentence,i need you to set an alarm
+alarm_set,exampleSentence,send me a wake up alert at seven am tomorrow morning
+alarm_set,exampleSentence,wake me at seven am
+alarm_set,exampleSentence,schedule an alarm for next weeks dentist appointment
+alarm_set,exampleSentence,set an alarm
+alarm_set,exampleSentence,wake me up at five hundred and thirty
+alarm_set,exampleSentence,wake me up at six am
+alarm_set,exampleSentence,set an alarm for tomorrow at six in the morning
+alarm_set,exampleSentence,set an alarm for two hours from now please
+alarm_set,exampleSentence,set an alarm for one hour from now
+alarm_set,exampleSentence,set alarm at six thirty am
+calendar_set,exampleSentence,the location is my office
+calendar_set,exampleSentence,please block off friday at eight am on my calendar
+calendar_set,exampleSentence,add a reminder for april twenty as my bro's birthday
+calendar_set,exampleSentence,set a notification on third march about company meeting
+calendar_set,exampleSentence,put a seven pm meeting time down for march fourteenth
+calendar_set,exampleSentence,make appointment for next friday
+calendar_set,exampleSentence,remind me of my appointment on the fifteenth
+calendar_set,exampleSentence,on every tuesday remind me to go shopping
+calendar_set,exampleSentence,on third april we will go to watch j llb movie set it
+calendar_set,exampleSentence,set on second january about soccer match of manchester
+calendar_set,exampleSentence,add my spin class to the calendar for Saturday at seven am
+calendar_set,exampleSentence,remind me to have launch with boss today at one pm
+calendar_set,exampleSentence,thursday at three pm there is a teachers meeting i need to be reminded of
+calendar_set,exampleSentence,remind me off about my tomorrow meeting sharply at ten
+calendar_set,exampleSentence,schedule dinner with sara and jamie
+calendar_set,exampleSentence,latest reminder about meeting
+calendar_set,exampleSentence,please remind me for the function at miami tomorrow
+calendar_set,exampleSentence,create a repeating event on mondays at seven pm
+calendar_set,exampleSentence,please add the meeting with ms boland on wednesday eight hundred am to my calendar
+calendar_set,exampleSentence,schedule meeting with laura
+calendar_set,exampleSentence,set a notification for june fifth every year
+calendar_set,exampleSentence,call sarah
+calendar_set,exampleSentence,i have to go to a meting on friday at noon can you remind me
+calendar_set,exampleSentence,remind me if i miss my evening walk routine
+calendar_set,exampleSentence,add event to calendar
+calendar_set,exampleSentence,make a meeting with friend
+calendar_set,exampleSentence,call me for this meeting
+calendar_set,exampleSentence,repeat birthday
+calendar_set,exampleSentence,please set this date to repeat
+calendar_set,exampleSentence,i have a meeting at noon today
+general_repeat,exampleSentence,will you say what you have just said once more please.
+general_repeat,exampleSentence,try it once more please.
+general_repeat,exampleSentence,retry please.
+general_repeat,exampleSentence,would you replay please.
+general_repeat,exampleSentence,please would you reset.
+general_repeat,exampleSentence,start over please.
+general_repeat,exampleSentence,i want to hear what i've just said again.
+general_repeat,exampleSentence,i need to hear again.
+general_repeat,exampleSentence,will you replay please.
+general_repeat,exampleSentence,what was that one more time.
+general_repeat,exampleSentence,please try what you've just said again.
+general_repeat,exampleSentence,can you retry please.
+general_repeat,exampleSentence,say again.
+general_repeat,exampleSentence,could you tell me once again please.
+general_repeat,exampleSentence,could you tell me it once again please.
+general_repeat,exampleSentence,try the last message one more time please.
+general_repeat,exampleSentence,please will you replay.
+general_repeat,exampleSentence,let's do it again please.
+general_repeat,exampleSentence,do it again please.
+general_repeat,exampleSentence,stop and start over.
+general_repeat,exampleSentence,will you tell me that once more please.
+general_repeat,exampleSentence,can you tell me what said once more.
+general_repeat,exampleSentence,will you speak it once again.
+general_repeat,exampleSentence,let us do it again please.
+general_repeat,exampleSentence,would you do it again please.
+general_repeat,exampleSentence,will you tell me again please.
+general_repeat,exampleSentence,i need to hear that sentence again.
+general_repeat,exampleSentence,would you tell me what i said one more time again.
+general_repeat,exampleSentence,would you try that words spoke one more time again.
+general_repeat,exampleSentence,please can you tell me that word said once again.
+music_settings,exampleSentence,olly skip song
+music_settings,exampleSentence,repeat the music
+music_settings,exampleSentence,music change
+music_settings,exampleSentence,show current track in music player
+music_settings,exampleSentence,turn off shuffle
+music_settings,exampleSentence,please turn on repeat all
+music_settings,exampleSentence,repeat the current song
+music_settings,exampleSentence,please program volume settings for sixteen when i'm in the room at fourteen for when i've gone to bed
+music_settings,exampleSentence,turn on shuffle
+music_settings,exampleSentence,shuffle song
+music_settings,exampleSentence,play only particular singer songs
+music_settings,exampleSentence,shuffle the songs in the music library
+music_settings,exampleSentence,please check and repeat this song one time more
+music_settings,exampleSentence,please go to settings of the music player and make the equalizer in the flat sound mode
+music_settings,exampleSentence,equalize the bass of this music
+music_settings,exampleSentence,repeat this song
+music_settings,exampleSentence,please put radio in shuffle
+music_settings,exampleSentence,please don't shuffle songs in music player just playing continuously
+music_settings,exampleSentence,set track twenty eight in music player on repeat
+music_settings,exampleSentence,please add this song to work out playlist
+music_settings,exampleSentence,repeat jazz
+music_settings,exampleSentence,select shuffle all
+music_settings,exampleSentence,please skip to the next song
+music_settings,exampleSentence,please repeat the current song is being played
+music_settings,exampleSentence,please use shuffle
+music_settings,exampleSentence,cut the songs in this musics
+music_settings,exampleSentence,open music player settings
+music_settings,exampleSentence,shuffle music by aaron carter
+music_settings,exampleSentence,disable shuffle
+music_settings,exampleSentence,turn on spotify shuffle
+qa_currency,exampleSentence,what is the exchange rate of us dollar today for rupee
+qa_currency,exampleSentence,how much is ten dollars in euros
+qa_currency,exampleSentence,what is the dollar exchange rate
+qa_currency,exampleSentence,how many dollars are there in a g. b. p.
+qa_currency,exampleSentence,how much is one u. s. d. in inr
+qa_currency,exampleSentence,what is the currency conversion charges applicable
+qa_currency,exampleSentence,how much is dollars american worth in yen
+qa_currency,exampleSentence,u. s. d. to g. b. p.
+qa_currency,exampleSentence,how many bots are in a dollar
+qa_currency,exampleSentence,what is six hundred euros in u. s. d.
+qa_currency,exampleSentence,convert five s. d. to rials
+qa_currency,exampleSentence,please check the exchange rates of the us dollar vs the euro
+qa_currency,exampleSentence,give me the exchange rate for dollar in euros
+qa_currency,exampleSentence,show exchange rate of u. s. d. and inr
+qa_currency,exampleSentence,what is the difference between the rate of the american dollar and the pound
+qa_currency,exampleSentence,what is the exchange rate for dollars to pounds
+qa_currency,exampleSentence,canadian us exchange rate
+qa_currency,exampleSentence,how much is fifty us dollars with in china
+qa_currency,exampleSentence,convert one us dollar to british pound
+qa_currency,exampleSentence,what is the exchange rate of euro today to dirham
+qa_currency,exampleSentence,Show me popular exchange rates
+qa_currency,exampleSentence,how many pesos to an american dollar
+qa_currency,exampleSentence,siri what is one american dollar in japanese yen
+qa_currency,exampleSentence,show u. s. d. currency value of euro
+qa_currency,exampleSentence,is the exchange rate changed from yesterday
+qa_currency,exampleSentence,what is the current exchange rate between dollars and euros
+qa_currency,exampleSentence,how many g. b. p. can i get for one dollar
+qa_currency,exampleSentence,euro to u. s. d.
+qa_currency,exampleSentence,how many american dollars are in a euro
+qa_currency,exampleSentence,current currency rate
+play_podcasts,exampleSentence,play my play list
+play_podcasts,exampleSentence,play episode two of the intern
+play_podcasts,exampleSentence,open podcast player
+play_podcasts,exampleSentence,will you please play a podcast
+play_podcasts,exampleSentence,skip to next podcast
+play_podcasts,exampleSentence,skip to next episode
+play_podcasts,exampleSentence,next one please
+play_podcasts,exampleSentence,next podcast
+play_podcasts,exampleSentence,jump to next podcast
+play_podcasts,exampleSentence,play the seventh episode of the morning after
+play_podcasts,exampleSentence,start playing podcast about books
+play_podcasts,exampleSentence,please play next episode
+play_podcasts,exampleSentence,please play podcasts on science
+play_podcasts,exampleSentence,play podcast one
+play_podcasts,exampleSentence,i want to hear the latest podcast episode of s town
+play_podcasts,exampleSentence,please play the next episode
+play_podcasts,exampleSentence,can you play the next episode please
+play_podcasts,exampleSentence,play the most current episode of levin
+play_podcasts,exampleSentence,go to the third episode of this podcast
+play_podcasts,exampleSentence,start playing my most recent podcast
+play_podcasts,exampleSentence,play anything new from my podcast subscriptions
+play_podcasts,exampleSentence,go to favourite list
+play_podcasts,exampleSentence,please play the podcast from happypeoplecom
+play_podcasts,exampleSentence,start podcasts on nfl
+play_podcasts,exampleSentence,show me the previous episode
+play_podcasts,exampleSentence,what are todays top podcasts
+play_podcasts,exampleSentence,play the next episode of the BBC tech podcast
+play_podcasts,exampleSentence,play episode ten in the podcast
+play_podcasts,exampleSentence,skip ahead to the next podcast
+play_podcasts,exampleSentence,i would like to listen to this mornings mike and mike podcast
+iot_cleaning,exampleSentence,please activate the vacuum cleaner
+iot_cleaning,exampleSentence,vacuum the living room in ten minutes
+iot_cleaning,exampleSentence,turn on vacuum cleaner
+iot_cleaning,exampleSentence,turn the vacuum on
+iot_cleaning,exampleSentence,start vacuum bot
+iot_cleaning,exampleSentence,how do you turn on the robot vacuum cleaner
+iot_cleaning,exampleSentence,run the vacuum cleaner
+iot_cleaning,exampleSentence,initiate cleaning process
+iot_cleaning,exampleSentence,please run the vacuum
+iot_cleaning,exampleSentence,activate the vacuum cleaner and use it
+iot_cleaning,exampleSentence,will you have the vacuum start cleaning
+iot_cleaning,exampleSentence,i need you to turn on the vacuum cleaner
+iot_cleaning,exampleSentence,start the vacuum
+iot_cleaning,exampleSentence,go near vacuum cleaner
+iot_cleaning,exampleSentence,vacuum cleaner start
+iot_cleaning,exampleSentence,vacuum the dining room
+iot_cleaning,exampleSentence,turn on the roomba for me
+iot_cleaning,exampleSentence,start the vacuum at nine am
+iot_cleaning,exampleSentence,cleaning is good dust is so bad do now your magic clean my carpet
+iot_cleaning,exampleSentence,run vacuum cleaner
+iot_cleaning,exampleSentence,robot vacuum the hallway now
+iot_cleaning,exampleSentence,activate the vacuum cleaner
+iot_cleaning,exampleSentence,start robot cleaner
+iot_cleaning,exampleSentence,vacuum living room
+iot_cleaning,exampleSentence,activate the cleaner for furniture cleaning
+iot_cleaning,exampleSentence,can you activate the vacuum to clean the house
+iot_cleaning,exampleSentence,at one pm today start the robot vacuum cleaner
+iot_cleaning,exampleSentence,turn on vacuum
+iot_cleaning,exampleSentence,turn on the robot vacuum
+iot_cleaning,exampleSentence,please start the vacuum cleaner
+calendar_remove,exampleSentence,erase next calendar event
+calendar_remove,exampleSentence,delete the party on june first from my calendar
+calendar_remove,exampleSentence,erase calendar events
+calendar_remove,exampleSentence,please delete all my calendar events
+calendar_remove,exampleSentence,please clear out my calendar completely
+calendar_remove,exampleSentence,delete all scheduled events
+calendar_remove,exampleSentence,is there a way to clear my calendar
+calendar_remove,exampleSentence,erase all content in my calendar
+calendar_remove,exampleSentence,cancel business meeting on wednesday
+calendar_remove,exampleSentence,delete the scheduled meeting on fourth october twelve pm
+calendar_remove,exampleSentence,can you deleted the current event
+calendar_remove,exampleSentence,delete that
+calendar_remove,exampleSentence,clear my day on the twenty ninth
+calendar_remove,exampleSentence,remove the event from monday
+calendar_remove,exampleSentence,remove the doctor's appointment i added to my calendar for february twelfth at nine am
+calendar_remove,exampleSentence,cancel sam's party
+calendar_remove,exampleSentence,cancel meeting at three
+calendar_remove,exampleSentence,cancel my birthday party
+calendar_remove,exampleSentence,cancel the plan of party
+calendar_remove,exampleSentence,delete from the calendar the next event
+calendar_remove,exampleSentence,delete all of my appointments with dr smith this week
+calendar_remove,exampleSentence,do remove next event from the calendar
+calendar_remove,exampleSentence,open calendar and erase all events for all months
+calendar_remove,exampleSentence,cancel everything on my calendar
+calendar_remove,exampleSentence,delete my dentist appointment
+calendar_remove,exampleSentence,erase that from my calendar
+calendar_remove,exampleSentence,delete all my appointments for today
+calendar_remove,exampleSentence,i am busy tomorrow so delete all calendar events
+calendar_remove,exampleSentence,i don't want to attend the dinner on march first any more so could you remove it from my agenda
+calendar_remove,exampleSentence,delete all events for the next five days
+qa_definition,exampleSentence,show meaning of clarion
+qa_definition,exampleSentence,describe a workhouse for me
+qa_definition,exampleSentence,please describe an elephant to me
+qa_definition,exampleSentence,what is the definition of session
+qa_definition,exampleSentence,what does it mean to be overbearing
+qa_definition,exampleSentence,what does a soccer ball look like
+qa_definition,exampleSentence,what is the meaning of the word home
+qa_definition,exampleSentence,what does a baguette look like
+qa_definition,exampleSentence,what is the definition of problematic
+qa_definition,exampleSentence,look up word
+qa_definition,exampleSentence,define god
+qa_definition,exampleSentence,what does a geranium look like
+qa_definition,exampleSentence,describe london for me please
+qa_definition,exampleSentence,what does apple of my eye mean
+qa_definition,exampleSentence,what is the meaning of this word
+qa_definition,exampleSentence,describe rock sand
+qa_definition,exampleSentence,could you explain the meaning of exorbitant for me please
+qa_definition,exampleSentence,look up the definition to ambulance
+qa_definition,exampleSentence,siri what does survey mean
+qa_definition,exampleSentence,hey what does incite mean
+qa_definition,exampleSentence,what does formidable mean
+qa_definition,exampleSentence,what's the definition of diverse
+qa_definition,exampleSentence,hey what is the definition of recipe
+qa_definition,exampleSentence,what is laptop
+qa_definition,exampleSentence,how would you describe a tennis ball
+qa_definition,exampleSentence,explain photosynthesis
+qa_definition,exampleSentence,what is a shoal
+qa_definition,exampleSentence,what is the meaning of the word sanctimonious
+qa_definition,exampleSentence,look up a lamp
+qa_definition,exampleSentence,what defines a triangle
+audio_volume_up,exampleSentence,turn up volume
+audio_volume_up,exampleSentence,more volume please
+audio_volume_up,exampleSentence,the volume of the music playing now should be raised
+audio_volume_up,exampleSentence,could you please yell the answer out to me
+audio_volume_up,exampleSentence,please turn up the speaker volume
+audio_volume_up,exampleSentence,i can't hear you speak up
+audio_volume_up,exampleSentence,turn up volume of music
+audio_volume_up,exampleSentence,audio on
+audio_volume_up,exampleSentence,increase the volume so that i can hear it in other room
+audio_volume_up,exampleSentence,increase volume please
+audio_volume_up,exampleSentence,unmute my sound
+audio_volume_up,exampleSentence,raise the volume of the speakers
+audio_volume_up,exampleSentence,turn up music please
+audio_volume_up,exampleSentence,please raise the volume of speaker
+audio_volume_up,exampleSentence,adjust media volume up
+audio_volume_up,exampleSentence,turn the sound up
+audio_volume_up,exampleSentence,i need to hear the volume of the current music
+audio_volume_up,exampleSentence,speak loudly
+audio_volume_up,exampleSentence,turn up the volume
+audio_volume_up,exampleSentence,Speak louder please
+audio_volume_up,exampleSentence,speaker volume increase
+audio_volume_up,exampleSentence,bring back talking after
+audio_volume_up,exampleSentence,audio up
+audio_volume_up,exampleSentence,turn the volume up
+audio_volume_up,exampleSentence,raise speaker volume
+audio_volume_up,exampleSentence,increase the volume to fifty
+audio_volume_up,exampleSentence,please turn the volume to the loudest setting
+audio_volume_up,exampleSentence,on the music player set the volume level at sixty
+audio_volume_up,exampleSentence,change the speaker volume to sixty five percent
+audio_volume_up,exampleSentence,i need you to have the volume louder
+iot_hue_lightdim,exampleSentence,i would love a less bright up room
+iot_hue_lightdim,exampleSentence,period the light should be in dim
+iot_hue_lightdim,exampleSentence,please lower the lights a little bit
+iot_hue_lightdim,exampleSentence,i want dimmer lights
+iot_hue_lightdim,exampleSentence,dim the lights in the hall
+iot_hue_lightdim,exampleSentence,dim the lights to level two
+iot_hue_lightdim,exampleSentence,dim the lights in my bedroom
+iot_hue_lightdim,exampleSentence,lower the intensity of light
+iot_hue_lightdim,exampleSentence,reduce the light power
+iot_hue_lightdim,exampleSentence,will you dim all the lights
+iot_hue_lightdim,exampleSentence,it is too bright in here dim the lights
+iot_hue_lightdim,exampleSentence,lights down to seven
+iot_hue_lightdim,exampleSentence,please dim the lights in the bedrooms
+iot_hue_lightdim,exampleSentence,lower brightness of lights
+iot_hue_lightdim,exampleSentence,bring the lights down a bit
+iot_hue_lightdim,exampleSentence,give me low lighting in the kitchen
+iot_hue_lightdim,exampleSentence,lower the brightness
+iot_hue_lightdim,exampleSentence,lower the light to forty percent
+iot_hue_lightdim,exampleSentence,turn down the brightness
+iot_hue_lightdim,exampleSentence,lower the brightness of the lights
+iot_hue_lightdim,exampleSentence,switch light to lowest level in dining area
+iot_hue_lightdim,exampleSentence,i want the lights less brighter
+iot_hue_lightdim,exampleSentence,dim the lights please
+iot_hue_lightdim,exampleSentence,bed room two darken
+iot_hue_lightdim,exampleSentence,please dim the overhead lights
+iot_hue_lightdim,exampleSentence,turn the lights down in the living room
+iot_hue_lightdim,exampleSentence,color of light should be dimmed bright
+iot_hue_lightdim,exampleSentence,this is too bright
+iot_hue_lightdim,exampleSentence,lower the light of hall percent
+iot_hue_lightdim,exampleSentence,show me the dim colour
+qa_factoid,exampleSentence,what awards did erica grebe win last night
+qa_factoid,exampleSentence,how far is parana river
+qa_factoid,exampleSentence,does pink have a new baby
+qa_factoid,exampleSentence,can turkeys fly
+qa_factoid,exampleSentence,where is the statue of liberty located
+qa_factoid,exampleSentence,when was einstein's birthday
+qa_factoid,exampleSentence,what is the deepest point on earth
+qa_factoid,exampleSentence,how far above sea level is denver
+qa_factoid,exampleSentence,wikipedia page about sean connery
+qa_factoid,exampleSentence,what is the geographic info of a pop singer rahman
+qa_factoid,exampleSentence,when was justin bieber born
+qa_factoid,exampleSentence,what movies is kevin spacey in
+qa_factoid,exampleSentence,how is iron made
+qa_factoid,exampleSentence,was einstein married
+qa_factoid,exampleSentence,what is the capital of china
+qa_factoid,exampleSentence,what country was einstein from
+qa_factoid,exampleSentence,how many bones does a human body have
+qa_factoid,exampleSentence,what is elvis favorite ride
+qa_factoid,exampleSentence,which are well reviewed movies by emma watson
+qa_factoid,exampleSentence,info of rowan atkinson
+qa_factoid,exampleSentence,what high school did halley barry go to
+qa_factoid,exampleSentence,what was the date when the plum street temple in cincinnati ohio was built
+qa_factoid,exampleSentence,longest river in the world
+qa_factoid,exampleSentence,what creates buttermilk
+qa_factoid,exampleSentence,what color is a dragon fruit
+qa_factoid,exampleSentence,who was in the beatles
+qa_factoid,exampleSentence,what is the plot of the most recent will smith movie
+qa_factoid,exampleSentence,what is the financial capital of canada
+qa_factoid,exampleSentence,where was steve jobs born
+qa_factoid,exampleSentence,calculate a close integral of exponential function from zero to five
+general_confirm,exampleSentence,i would like you to check and confirm my last command please.
+general_confirm,exampleSentence,could you please confirm the details.
+general_confirm,exampleSentence,confirm that please.
+general_confirm,exampleSentence,would you check and confirm the details please.
+general_confirm,exampleSentence,can you check last thing i said please.
+general_confirm,exampleSentence,please check and confirm the last thing said.
+general_confirm,exampleSentence,please can you check that.
+general_confirm,exampleSentence,would you please check question.
+general_confirm,exampleSentence,did you get the last thing i said correctly?
+general_confirm,exampleSentence,please can you check the last thing i said.
+general_confirm,exampleSentence,could you please check and confirm details.
+general_confirm,exampleSentence,would you check my last question please.
+general_confirm,exampleSentence,could you check and confirm what i last said please.
+general_confirm,exampleSentence,confirm my last command please.
+general_confirm,exampleSentence,could you confirm detail please.
+general_confirm,exampleSentence,i like you confirm last thing said please.
+general_confirm,exampleSentence,i want you to check what i just said please.
+general_confirm,exampleSentence,i would like you check details please.
+general_confirm,exampleSentence,did you get last thing said correctly?
+general_confirm,exampleSentence,did you get what said correctly?
+general_confirm,exampleSentence,can you check and confirm the question please.
+general_confirm,exampleSentence,please could you confirm instruction.
+general_confirm,exampleSentence,could you please check and confirm the detail.
+general_confirm,exampleSentence,would you check what i said.
+general_confirm,exampleSentence,please can you confirm the command.
+general_confirm,exampleSentence,confirm detail please.
+general_confirm,exampleSentence,please will you check my last instruction.
+general_confirm,exampleSentence,check the command.
+general_confirm,exampleSentence,please will you check and confirm what i just said.
+general_confirm,exampleSentence,did you get that correctly?
+music_likeness,exampleSentence,compile favorites list according to my song feedback
+music_likeness,exampleSentence,please save the current song to favorites
+music_likeness,exampleSentence,the music of this song is very melodious and relaxing
+music_likeness,exampleSentence,how about you save this music
+music_likeness,exampleSentence,i love hip hop
+music_likeness,exampleSentence,this song is too good
+music_likeness,exampleSentence,rate this song five stars and save the rating
+music_likeness,exampleSentence,save my opinion on the currently playing song
+music_likeness,exampleSentence,please save my rating on this song it is five stars please
+music_likeness,exampleSentence,save all of my preferences information specific to songs
+music_likeness,exampleSentence,i love this music can you please save this to my dance playlist and remember that i like it
+music_likeness,exampleSentence,add this song to favorites playlist
+music_likeness,exampleSentence,i am the living blues
+music_likeness,exampleSentence,i want to listen daily to this song
+music_likeness,exampleSentence,my favorite singer is shakira
+music_likeness,exampleSentence,mark this song as a favorite
+music_likeness,exampleSentence,favorite this music
+music_likeness,exampleSentence,i like it
+music_likeness,exampleSentence,this is the best band ever
+music_likeness,exampleSentence,this is a nice song
+music_likeness,exampleSentence,i'm really enjoying this song
+music_likeness,exampleSentence,this is a five star song
+music_likeness,exampleSentence,i really enjoy this song
+music_likeness,exampleSentence,isn't keith urban wonderful
+music_likeness,exampleSentence,put that song in my favourite list
+music_likeness,exampleSentence,make this my favorite
+music_likeness,exampleSentence,save this song to playlist
+music_likeness,exampleSentence,i like songs from
+music_likeness,exampleSentence,i like a song sing by arijit singh
+music_likeness,exampleSentence,save this music to my favorites
+iot_hue_lightoff,exampleSentence,turn off lights of kitchen
+iot_hue_lightoff,exampleSentence,switch off all lights
+iot_hue_lightoff,exampleSentence,bedroom lights off now
+iot_hue_lightoff,exampleSentence,put the lights off now
+iot_hue_lightoff,exampleSentence,by switch off
+iot_hue_lightoff,exampleSentence,turn off the bedroom lamp
+iot_hue_lightoff,exampleSentence,will you please turn the lights off
+iot_hue_lightoff,exampleSentence,cut the lights off
+iot_hue_lightoff,exampleSentence,make the lights off
+iot_hue_lightoff,exampleSentence,turn off the dining room
+iot_hue_lightoff,exampleSentence,please turn off the light of the bathroom
+iot_hue_lightoff,exampleSentence,switch off kitchen lights
+iot_hue_lightoff,exampleSentence,switch off main light
+iot_hue_lightoff,exampleSentence,turn off the lights
+iot_hue_lightoff,exampleSentence,turn the kitchen lights off
+iot_hue_lightoff,exampleSentence,turn the lights off
+iot_hue_lightoff,exampleSentence,please switch off the light
+iot_hue_lightoff,exampleSentence,turn off kitchen light
+iot_hue_lightoff,exampleSentence,turn room lights off now
+iot_hue_lightoff,exampleSentence,bed room two lights off
+iot_hue_lightoff,exampleSentence,i want the light to be switched off
+iot_hue_lightoff,exampleSentence,shutoff light in the kitchen
+iot_hue_lightoff,exampleSentence,please set the lights off in the living room
+iot_hue_lightoff,exampleSentence,light off now
+iot_hue_lightoff,exampleSentence,lights off bathroom
+iot_hue_lightoff,exampleSentence,switch the lights to off
+iot_hue_lightoff,exampleSentence,turn off the lights please
+iot_hue_lightoff,exampleSentence,i need you to turn off the light of my bed room
+iot_hue_lightoff,exampleSentence,turn off the light in the bathroom
+iot_hue_lightoff,exampleSentence,please turn off the lights in patio
+social_query,exampleSentence,hey olly inform me about latest picture updated by priya chopra on instagram
+social_query,exampleSentence,check my facebook notification
+social_query,exampleSentence,please scan my social media and tell me what's happening
+social_query,exampleSentence,please check the news on social media
+social_query,exampleSentence,did my friend rohit posted something on facebook
+social_query,exampleSentence,let me know if linda posts anything on my facebook today
+social_query,exampleSentence,what's trending on twitter
+social_query,exampleSentence,please inform me of any new status updates
+social_query,exampleSentence,what are the latest photos on my instagram account
+social_query,exampleSentence,please read my facebook feed
+social_query,exampleSentence,what is trending on twitter
+social_query,exampleSentence,check my social networks
+social_query,exampleSentence,is there anything exciting on twitter today
+social_query,exampleSentence,tell me what's going on with facebook
+social_query,exampleSentence,check facebook and twitter and tell me if anything interesting is happening
+social_query,exampleSentence,tell me what's new
+social_query,exampleSentence,have i got new content in my twitter feed
+social_query,exampleSentence,do i have new likes
+social_query,exampleSentence,latest instagram posts
+social_query,exampleSentence,who has written to me or mentioned me in social media
+social_query,exampleSentence,do i have any new friend requests
+social_query,exampleSentence,did renee just post to my facebook feed
+social_query,exampleSentence,is my friend rohit online on facebook
+social_query,exampleSentence,what is the latest from my feed
+social_query,exampleSentence,tell me my friends most recent update
+social_query,exampleSentence,hows twitter
+social_query,exampleSentence,hi there tell me latest updates of times of india page in facebook
+social_query,exampleSentence,what posts have i missed from my friends
+social_query,exampleSentence,who recently posted on social media
+social_query,exampleSentence,can you tell me what happened to my social media
+qa_stock,exampleSentence,current price of coca cola stock
+qa_stock,exampleSentence,refer the stock price of hdfc
+qa_stock,exampleSentence,google stock price
+qa_stock,exampleSentence,how much is apple stock worth
+qa_stock,exampleSentence,how have megatel shares done last week
+qa_stock,exampleSentence,whats the current price of mcdonalds stock
+qa_stock,exampleSentence,set notification for news on the stock market
+qa_stock,exampleSentence,which stock markets have lowered in the past three hours
+qa_stock,exampleSentence,what did the s n. p close out at
+qa_stock,exampleSentence,how strong is the dollar compared to the peso
+qa_stock,exampleSentence,what are amd stock prices
+qa_stock,exampleSentence,fb stocks
+qa_stock,exampleSentence,list the latest apple stock prices
+qa_stock,exampleSentence,facebook current stock rate
+qa_stock,exampleSentence,give me the average five year stock price of home depot
+qa_stock,exampleSentence,what did apple stock close at yesterday
+qa_stock,exampleSentence,tell me about price of stock for innova
+qa_stock,exampleSentence,how much does bde cost
+qa_stock,exampleSentence,give the stock price details of motorolla
+qa_stock,exampleSentence,turn on notification for all news on the stock market
+qa_stock,exampleSentence,what's my stock fluctuations
+qa_stock,exampleSentence,is now a good time to sell some euros
+qa_stock,exampleSentence,please find out the share price of i. b. m. in nasdaq
+qa_stock,exampleSentence,what is the current price of jindel stock
+qa_stock,exampleSentence,can i have stock rate list of ola and uber
+qa_stock,exampleSentence,is the stocks which i have invested are increasing
+qa_stock,exampleSentence,what is the google stock at
+qa_stock,exampleSentence,i want to know the stocks of amazon
+qa_stock,exampleSentence,what is amazon worth
+qa_stock,exampleSentence,what is the stock price of amazon
+music_query,exampleSentence,what music is playing right now
+music_query,exampleSentence,what music do i usually listen to
+music_query,exampleSentence,give me the details on elton john
+music_query,exampleSentence,what music is currently playing
+music_query,exampleSentence,who wrote the song i just wanna dance with you
+music_query,exampleSentence,was this song in the top twenty
+music_query,exampleSentence,tell me starting phrase of this music
+music_query,exampleSentence,which song am i listening to right now
+music_query,exampleSentence,what is the track information currently
+music_query,exampleSentence,what artist is singing that song
+music_query,exampleSentence,do i have any music by lady antebellum
+music_query,exampleSentence,when is boy band playing
+music_query,exampleSentence,who's that song by
+music_query,exampleSentence,who is the singer of this song right now
+music_query,exampleSentence,when was this song released
+music_query,exampleSentence,which song is this one
+music_query,exampleSentence,find me the name of the artist of this music
+music_query,exampleSentence,what genre is this song currently playing
+music_query,exampleSentence,what is the name of this musical group
+music_query,exampleSentence,what list is available for my favorite music from ed sheeran
+music_query,exampleSentence,show me the name of the song playing right now
+music_query,exampleSentence,who is singing this song
+music_query,exampleSentence,how do you feel after hearing justin bieber's new album
+music_query,exampleSentence,what movie is this song from
+music_query,exampleSentence,what is the title of this song and please shuffle songs from the artist that sang it
+music_query,exampleSentence,what's the name of the piece you are playing
+music_query,exampleSentence,what's my favorite music at the moment
+music_query,exampleSentence,what music do i like
+music_query,exampleSentence,give me the release date of this song
+music_query,exampleSentence,what is the list about my favorite songs
+general_negate,exampleSentence,i am sorry but i think you're incorrect.
+general_negate,exampleSentence,sorry but that's not the correct response.
+general_negate,exampleSentence,thanks but i think you do not get me.
+general_negate,exampleSentence,hmm
+general_negate,exampleSentence,oops
+general_negate,exampleSentence,i think you are wrong.
+general_negate,exampleSentence,stop
+general_negate,exampleSentence,dont do that again.
+general_negate,exampleSentence,sorry but it is not correct.
+general_negate,exampleSentence,stop
+general_negate,exampleSentence,sorry but i think you have messed up with command.
+general_negate,exampleSentence,hmm
+general_negate,exampleSentence,i think incorrect.
+general_negate,exampleSentence,uhh no
+general_negate,exampleSentence,thanks but you have got it incorrect.
+general_negate,exampleSentence,hmm
+general_negate,exampleSentence,shit
+general_negate,exampleSentence,thanks but it's not the correct command.
+general_negate,exampleSentence,thanks but i think you have messed up my request.
+general_negate,exampleSentence,no
+general_negate,exampleSentence,olly i said call jack not jake.
+general_negate,exampleSentence,sorry but it was not the correct response.
+general_negate,exampleSentence,i don't think thats right.
+general_negate,exampleSentence,i think this is not correct command.
+general_negate,exampleSentence,oh no
+general_negate,exampleSentence,i think you didn't understand me.
+general_negate,exampleSentence,this was not what i am searching for.
+general_negate,exampleSentence,stop
+general_negate,exampleSentence,no
+general_negate,exampleSentence,no
+lists_query,exampleSentence,can you tell me what list i have
+lists_query,exampleSentence,list to do
+lists_query,exampleSentence,to do list for today please
+lists_query,exampleSentence,what are all my lists please
+lists_query,exampleSentence,arrange the list in alphabetical order that are available
+lists_query,exampleSentence,what lists are open
+lists_query,exampleSentence,please show my list
+lists_query,exampleSentence,give me the shopping list
+lists_query,exampleSentence,groceries list
+lists_query,exampleSentence,what's my to do list for today
+lists_query,exampleSentence,can i have my list
+lists_query,exampleSentence,what else do i have on the list
+lists_query,exampleSentence,tell me the list about
+lists_query,exampleSentence,read my list to me
+lists_query,exampleSentence,my list please
+lists_query,exampleSentence,any sport event is on my list
+lists_query,exampleSentence,there are anything in my list
+lists_query,exampleSentence,did i put toothpaste on my pick up list
+lists_query,exampleSentence,list things on my list
+lists_query,exampleSentence,check out my to do list
+lists_query,exampleSentence,list the lists i have
+lists_query,exampleSentence,can you please tell me what i have on my list
+lists_query,exampleSentence,what is on the list for today
+lists_query,exampleSentence,what are the names of the lists that i have created
+lists_query,exampleSentence,is there anything on my list today
+lists_query,exampleSentence,List all the lists on this device
+lists_query,exampleSentence,give me the list of the top five safest cars to buy
+lists_query,exampleSentence,what is my grocery list
+lists_query,exampleSentence,most viewed list
+lists_query,exampleSentence,what is on my to do list today
+recommendation_locations,exampleSentence,what stores have clearance
+recommendation_locations,exampleSentence,i want to find some chinese food what is near me
+recommendation_locations,exampleSentence,tell me what is the nicest place to go
+recommendation_locations,exampleSentence,where is the closer starbucks
+recommendation_locations,exampleSentence,What's close by for dinner
+recommendation_locations,exampleSentence,where can i eat along route sixty six
+recommendation_locations,exampleSentence,whats the best place to eat near here
+recommendation_locations,exampleSentence,find me a nice restaurant for dinner
+recommendation_locations,exampleSentence,where is the best pizza on sixth street
+recommendation_locations,exampleSentence,i want to know what supermarket near me has the best price on gluten free bread
+recommendation_locations,exampleSentence,please give me all shop names in a two mile radius
+recommendation_locations,exampleSentence,hey olly tell me what shops i am near
+recommendation_locations,exampleSentence,when does olive garden close today
+recommendation_locations,exampleSentence,show me some food court nearest to my location
+recommendation_locations,exampleSentence,give me the name of all the shops in my area
+recommendation_locations,exampleSentence,find a shop that sells beer
+recommendation_locations,exampleSentence,which store's got the cheapest three pound beef rump
+recommendation_locations,exampleSentence,tell me chinese restaurants in the area
+recommendation_locations,exampleSentence,which is the nearest restaurants available
+recommendation_locations,exampleSentence,will the fast food shop at the corner open today
+recommendation_locations,exampleSentence,give me some cafes near downtown fort lauderdale
+recommendation_locations,exampleSentence,give the list of theaters in the vicinity
+recommendation_locations,exampleSentence,is there a sports bar near kansas city plaza area
+recommendation_locations,exampleSentence,where can i find a good taco truck in los angles
+recommendation_locations,exampleSentence,i would like to know the best rating pubs in the local area
+recommendation_locations,exampleSentence,i want to take karate classes where are local karate studios
+recommendation_locations,exampleSentence,find grocery store with an organic section near me
+recommendation_locations,exampleSentence,name stores within ten mile radius with music
+recommendation_locations,exampleSentence,where is the nearest atm machine
+recommendation_locations,exampleSentence,recommend a local steak restaurant
+calendar_query,exampleSentence,tell me what is on the schedule for july seventh
+calendar_query,exampleSentence,events happening between eight am and five pm today
+calendar_query,exampleSentence,is calendar event true
+calendar_query,exampleSentence,what is on the agenda for today
+calendar_query,exampleSentence,what am i up to this weekend
+calendar_query,exampleSentence,what events are going to happen in my city between two four pm today
+calendar_query,exampleSentence,do the knicks have a game at home tonight
+calendar_query,exampleSentence,what meetings are available in march
+calendar_query,exampleSentence,on my calendar are there any birthdays
+calendar_query,exampleSentence,tell me the meetings i have for the week
+calendar_query,exampleSentence,am i on vacation this week
+calendar_query,exampleSentence,which day this week do i have plans
+calendar_query,exampleSentence,am i available at five pm on sunday
+calendar_query,exampleSentence,was my meeting today rescheduled
+calendar_query,exampleSentence,show me future events
+calendar_query,exampleSentence,where is my meeting at nine am
+calendar_query,exampleSentence,when is the next office meeting
+calendar_query,exampleSentence,whats my schedule today
+calendar_query,exampleSentence,when is dale's birthday
+calendar_query,exampleSentence,march one is susan's birthday right
+calendar_query,exampleSentence,when will the match start
+calendar_query,exampleSentence,can you pull up the latest time so i won't be late for my appointment
+calendar_query,exampleSentence,today's schedule
+calendar_query,exampleSentence,is there any event today in my calendar
+calendar_query,exampleSentence,show todays reminders
+calendar_query,exampleSentence,what on my calendar
+calendar_query,exampleSentence,tell me when the hockey game tickets are for
+calendar_query,exampleSentence,do i have anything planned for the twenty first
+calendar_query,exampleSentence,do i have any get togethers this week
+calendar_query,exampleSentence,where am i supposed to be by this time tomorrow
+play_audiobook,exampleSentence,i want you to fast forward the audio then resume
+play_audiobook,exampleSentence,play audiobook snow white
+play_audiobook,exampleSentence,i need a break start it after five minutes
+play_audiobook,exampleSentence,play the client by john grisham
+play_audiobook,exampleSentence,play the circle
+play_audiobook,exampleSentence,play my bookmarked audiobook
+play_audiobook,exampleSentence,play animal farm
+play_audiobook,exampleSentence,lets have a break for five minutes
+play_audiobook,exampleSentence,restart american gods
+play_audiobook,exampleSentence,play album audiobook
+play_audiobook,exampleSentence,open davinci code audiobook
+play_audiobook,exampleSentence,resume play where i left off in book on audible
+play_audiobook,exampleSentence,start playing again
+play_audiobook,exampleSentence,audio
+play_audiobook,exampleSentence,begin playing the audiobook beauty and the beast
+play_audiobook,exampleSentence,play next episode of harry potter by j. k. rowling
+play_audiobook,exampleSentence,i want to finally read the mars trilogy
+play_audiobook,exampleSentence,play the two towers
+play_audiobook,exampleSentence,start dune from where i left off
+play_audiobook,exampleSentence,open the davinci code where i left off
+play_audiobook,exampleSentence,continue playing my book of vitamins
+play_audiobook,exampleSentence,resume harry potter book one
+play_audiobook,exampleSentence,play fault in our stars on audible
+play_audiobook,exampleSentence,resume play of american gods
+play_audiobook,exampleSentence,book please
+play_audiobook,exampleSentence,i want to resume where i last left off in my audio book
+play_audiobook,exampleSentence,play pride and prejudice
+play_audiobook,exampleSentence,continue from where we left off in divergent
+play_audiobook,exampleSentence,play it after five minutes
+play_audiobook,exampleSentence,can you play my favorite audio book of tarzan
+general_praise,exampleSentence,thanks
+general_praise,exampleSentence,you have done it right musch appreciated
+general_praise,exampleSentence,that's good
+general_praise,exampleSentence,appreciate your helping
+general_praise,exampleSentence,ah it's amazing.
+general_praise,exampleSentence,it was nice one
+general_praise,exampleSentence,fantastic job
+general_praise,exampleSentence,you rock
+general_praise,exampleSentence,that's amazing job
+general_praise,exampleSentence,amazing job
+general_praise,exampleSentence,ah that is great one.
+general_praise,exampleSentence,you are my hero
+general_praise,exampleSentence,you are helpful
+general_praise,exampleSentence,that's cool
+general_praise,exampleSentence,appreciated
+general_praise,exampleSentence,thank you so much for your helping.
+general_praise,exampleSentence,you are my star
+general_praise,exampleSentence,great work
+general_praise,exampleSentence,perfect work
+general_praise,exampleSentence,you are my hero
+general_praise,exampleSentence,you've done it right.
+general_praise,exampleSentence,it is useful
+general_praise,exampleSentence,wonderful work
+general_praise,exampleSentence,it is useful
+general_praise,exampleSentence,it's useful
+general_praise,exampleSentence,you rock
+general_praise,exampleSentence,thanks for the response
+general_praise,exampleSentence,that is helpful
+general_praise,exampleSentence,it's cool
+general_praise,exampleSentence,that was good one
+news_query,exampleSentence,show current news from bbc
+news_query,exampleSentence,tell me the top stories in the news
+news_query,exampleSentence,give me international news
+news_query,exampleSentence,any local news stories for my home city
+news_query,exampleSentence,headlines from dhaka tribune
+news_query,exampleSentence,what's happened in the news recently
+news_query,exampleSentence,give me the news
+news_query,exampleSentence,what is the bbc's latest news
+news_query,exampleSentence,keep me updated on the election results
+news_query,exampleSentence,access latest news
+news_query,exampleSentence,what's going on in the world these days
+news_query,exampleSentence,what's going around in the world these days
+news_query,exampleSentence,open cnn app
+news_query,exampleSentence,what's happening in news express
+news_query,exampleSentence,which teams are playing today in the premier league
+news_query,exampleSentence,please share up to the minute details on sprint
+news_query,exampleSentence,latest updates
+news_query,exampleSentence,tell me the latest news from bbc sports
+news_query,exampleSentence,get me the latest news in new york
+news_query,exampleSentence,current news cnn
+news_query,exampleSentence,what's happening in the news
+news_query,exampleSentence,what is happening in the world right now
+news_query,exampleSentence,any recent news about north korea
+news_query,exampleSentence,what is trending in tech today
+news_query,exampleSentence,i want to read yahoo news
+news_query,exampleSentence,let me know the latest weather news
+news_query,exampleSentence,breaking news fox news
+news_query,exampleSentence,cnn world news
+news_query,exampleSentence,show me rediff masala
+news_query,exampleSentence,cnn
+datetime_convert,exampleSentence,change the time in this location to ist
+datetime_convert,exampleSentence,convert twenty one thirty from gtm four to g. m. t. four thirty
+datetime_convert,exampleSentence,how much later is new york than la
+datetime_convert,exampleSentence,what is the time difference between new york and lagos
+datetime_convert,exampleSentence,change this time zone to washington
+datetime_convert,exampleSentence,please change time zone to canada
+datetime_convert,exampleSentence,can you convert my time zone to the time zone i'm currently in
+datetime_convert,exampleSentence,convert time zone to ist
+datetime_convert,exampleSentence,what is the time difference between eastern time and pacific time
+datetime_convert,exampleSentence,i need you to convert nine am cst to est time
+datetime_convert,exampleSentence,convert usa time in to indian time
+datetime_convert,exampleSentence,eight am in manila is what in new york
+datetime_convert,exampleSentence,eight am manila time is what in eastern time
+datetime_convert,exampleSentence,now it's five thirty pm in india what about the time in ivory coast
+datetime_convert,exampleSentence,convert new york time to london
+datetime_convert,exampleSentence,how many hours difference is hong kong from new york city
+datetime_convert,exampleSentence,if it's five am in berlin what time is it here
+datetime_convert,exampleSentence,change this time to ist
+datetime_convert,exampleSentence,convert eight thirty from gtm four to g. m. t. five thirty
+datetime_convert,exampleSentence,if it is noon in virginia what time is it in california
+datetime_convert,exampleSentence,what is the time difference between eastern and pacific time zones
+datetime_convert,exampleSentence,how many hours distance is between my location and new york
+datetime_convert,exampleSentence,if it is four pm in missouri what time is it in london
+datetime_convert,exampleSentence,can you change my time zone to central
+datetime_convert,exampleSentence,if it is twelve hours ahead of eastern standard centaur time what's the time in the philippines now
+datetime_convert,exampleSentence,tell me the time in g. m. t. plus five
+datetime_convert,exampleSentence,if it's midnight in colorado what time is it in munich
+datetime_convert,exampleSentence,what is the time difference between my location and hong kong
+datetime_convert,exampleSentence,time zone between india and us
+datetime_convert,exampleSentence,when it is nine in the east what time is it in the west
+datetime_query,exampleSentence,what day of the week is first april
+datetime_query,exampleSentence,what day does april sixteenth fall on
+datetime_query,exampleSentence,please alert me to the time
+datetime_query,exampleSentence,the twenty second is on what day of the week
+datetime_query,exampleSentence,show me the current time
+datetime_query,exampleSentence,tell me what time it is in dallas texas
+datetime_query,exampleSentence,today is monday is it
+datetime_query,exampleSentence,show me what day the thirty first is on
+datetime_query,exampleSentence,what is the time for the eastern time zone
+datetime_query,exampleSentence,please give me the time
+datetime_query,exampleSentence,which week is twenty third
+datetime_query,exampleSentence,uh what does the current date happen to be
+datetime_query,exampleSentence,hey what is the time
+datetime_query,exampleSentence,what time is it in the eastern half of the us right now
+datetime_query,exampleSentence,tell me the time in this time zone
+datetime_query,exampleSentence,date today
+datetime_query,exampleSentence,what is the current time right now
+datetime_query,exampleSentence,be my clock
+datetime_query,exampleSentence,what day of the week is june twenty seventh on this year
+datetime_query,exampleSentence,let me know the time in india
+datetime_query,exampleSentence,what is the time in canada now
+datetime_query,exampleSentence,may twenty two is my birthdate and i want to know the what day is twenty third may
+datetime_query,exampleSentence,please tell me the current date
+datetime_query,exampleSentence,what is the date for next tuesday
+datetime_query,exampleSentence,what time is it in new york city
+datetime_query,exampleSentence,when is the third monday of this month
+datetime_query,exampleSentence,what is the time in beijing
+datetime_query,exampleSentence,what day is christmas
+datetime_query,exampleSentence,what is today's current date
+datetime_query,exampleSentence,what day of the week is it
+transport_taxi,exampleSentence,call an uber for me
+transport_taxi,exampleSentence,just book for me a lyft taxi to bardonia
+transport_taxi,exampleSentence,call a cab
+transport_taxi,exampleSentence,please book a taxi in uber for me to go to the airport today
+transport_taxi,exampleSentence,get me an uber
+transport_taxi,exampleSentence,call a taxi for me
+transport_taxi,exampleSentence,request a taxi from udrive service
+transport_taxi,exampleSentence,i need a taxi to take me to the airport please
+transport_taxi,exampleSentence,book an uber to los angeles cinemas in one hour
+transport_taxi,exampleSentence,book an uber for me
+transport_taxi,exampleSentence,call a car for me
+transport_taxi,exampleSentence,find a ride to the bar
+transport_taxi,exampleSentence,can you get me a taxi home
+transport_taxi,exampleSentence,book uber from my home
+transport_taxi,exampleSentence,please book a taxi for me
+transport_taxi,exampleSentence,book me a cab
+transport_taxi,exampleSentence,get me a taxi to the airport right now
+transport_taxi,exampleSentence,please send a taxi to my house
+transport_taxi,exampleSentence,open lyft
+transport_taxi,exampleSentence,get me an uber please
+transport_taxi,exampleSentence,find an uber that can get me to the airport now
+transport_taxi,exampleSentence,find a taxi service close to me
+transport_taxi,exampleSentence,book taxi to new york city
+transport_taxi,exampleSentence,send golden taxi to pick me up as soon as possible
+transport_taxi,exampleSentence,send an uber to me right now
+transport_taxi,exampleSentence,can you book me a taxi
+transport_taxi,exampleSentence,request an uber now
+transport_taxi,exampleSentence,book me a cab going to location
+transport_taxi,exampleSentence,get me a taxi
+transport_taxi,exampleSentence,get me the number for local taxi service
+lists_createoradd,exampleSentence,include an item to a list
+lists_createoradd,exampleSentence,add item
+lists_createoradd,exampleSentence,add ketchup to the list
+lists_createoradd,exampleSentence,make a new list
+lists_createoradd,exampleSentence,make list
+lists_createoradd,exampleSentence,is there room on my grocery list for an extra item
+lists_createoradd,exampleSentence,Put milk on my shopping list
+lists_createoradd,exampleSentence,add this to a list
+lists_createoradd,exampleSentence,add coffee to the grocery list
+lists_createoradd,exampleSentence,new list please
+lists_createoradd,exampleSentence,add apples to shopping list
+lists_createoradd,exampleSentence,add sugar to my shopping list
+lists_createoradd,exampleSentence,hey put carrots on that
+lists_createoradd,exampleSentence,create a new list called grocery store please
+lists_createoradd,exampleSentence,this item should be added to the list
+lists_createoradd,exampleSentence,open a new list for me
+lists_createoradd,exampleSentence,add butter to the list
+lists_createoradd,exampleSentence,put pencil on a new grocery list
+lists_createoradd,exampleSentence,please create a list of due payment those who not received more then ten months
+lists_createoradd,exampleSentence,add the item to a list
+lists_createoradd,exampleSentence,enter this to a list
+lists_createoradd,exampleSentence,put the item on the list
+lists_createoradd,exampleSentence,remind me to order more soap
+lists_createoradd,exampleSentence,create a list of jewels to be bought
+lists_createoradd,exampleSentence,i want to start a new list
+lists_createoradd,exampleSentence,add toothpaste to my shopping list
+lists_createoradd,exampleSentence,please create a new list for me
+lists_createoradd,exampleSentence,add appointment to list
+lists_createoradd,exampleSentence,add something to my list
+lists_createoradd,exampleSentence,i need to set up a new list
+takeaway_query,exampleSentence,does the nearby chinese restaurant do delivery
+takeaway_query,exampleSentence,find my thai takeaways around grassmarket
+takeaway_query,exampleSentence,does that restaurant allow call in orders
+takeaway_query,exampleSentence,is there a takeout menu at the restaurant
+takeaway_query,exampleSentence,will they deliver to me
+takeaway_query,exampleSentence,is fongs dine in only
+takeaway_query,exampleSentence,check to see if pizza hut has my order on the way
+takeaway_query,exampleSentence,i want some curry to go any recommendations
+takeaway_query,exampleSentence,does mcdonalds do takeaway
+takeaway_query,exampleSentence,check on the delivery of my current order
+takeaway_query,exampleSentence,please see if chili's has delivery
+takeaway_query,exampleSentence,tell me the soup of the day at panera bread restaurant
+takeaway_query,exampleSentence,please see if the restaurant chili's has delivery as an option
+takeaway_query,exampleSentence,does the nearby pizza hut deliver in my area
+takeaway_query,exampleSentence,where are my takeaway order
+takeaway_query,exampleSentence,ask if deliver
+takeaway_query,exampleSentence,is my order ready
+takeaway_query,exampleSentence,take out available louies
+takeaway_query,exampleSentence,does arby's do takeaway
+takeaway_query,exampleSentence,restaurant delivery update
+takeaway_query,exampleSentence,does this restaurant deliver
+takeaway_query,exampleSentence,does louie's do take out
+takeaway_query,exampleSentence,when will my food be ready
+takeaway_query,exampleSentence,does peking garden do orders online
+takeaway_query,exampleSentence,is dinner ready yet
+takeaway_query,exampleSentence,last take away order
+takeaway_query,exampleSentence,does lechateau have delivery service or only takeaway
+takeaway_query,exampleSentence,will the pizza be here soon
+takeaway_query,exampleSentence,can i get delivery from here
+takeaway_query,exampleSentence,when is my takeaway arriving
+recommendation_events,exampleSentence,show local events
+recommendation_events,exampleSentence,show todays events in ny
+recommendation_events,exampleSentence,show me upcoming events in this area
+recommendation_events,exampleSentence,any local activities you can recommend in my area
+recommendation_events,exampleSentence,what kind of free activities can i do locally this week
+recommendation_events,exampleSentence,which book fair events are taking place next week in washington dc
+recommendation_events,exampleSentence,what gun shows are in tulsa
+recommendation_events,exampleSentence,which teams are playing this weekend
+recommendation_events,exampleSentence,is there anything happening nearby
+recommendation_events,exampleSentence,to which event can i go in milan now
+recommendation_events,exampleSentence,what bands are playing close by
+recommendation_events,exampleSentence,tell me all the current events in my hometown
+recommendation_events,exampleSentence,where should i go for dinner in san francisco tonight
+recommendation_events,exampleSentence,what is going on around me
+recommendation_events,exampleSentence,are there any events going on in milan
+recommendation_events,exampleSentence,please show me best run program in jodhpur
+recommendation_events,exampleSentence,any events this weekend in pondichery
+recommendation_events,exampleSentence,fun things to do today
+recommendation_events,exampleSentence,are there any events coming up
+recommendation_events,exampleSentence,are there any good social events happening in my area
+recommendation_events,exampleSentence,tell me all local events
+recommendation_events,exampleSentence,show me nearby musical events
+recommendation_events,exampleSentence,any activity in the area
+recommendation_events,exampleSentence,what are the local concerts tonight
+recommendation_events,exampleSentence,what's interesting around here
+recommendation_events,exampleSentence,what is going on today in biloxi
+recommendation_events,exampleSentence,show me all the events happening in milan
+recommendation_events,exampleSentence,which event should i attend in my area
+recommendation_events,exampleSentence,what events are scheduled for this weekend in me area
+recommendation_events,exampleSentence,what can i do for fun under dollars around me
+cooking_recipe,exampleSentence,how do i make cookies
+cooking_recipe,exampleSentence,what's the recipe for fish soup
+cooking_recipe,exampleSentence,let me know the recipe for preparing pasta
+cooking_recipe,exampleSentence,how do i make meal
+cooking_recipe,exampleSentence,i need help making pancakes
+cooking_recipe,exampleSentence,what is the best tasting cut of beef
+cooking_recipe,exampleSentence,tell me the recipe for mashed potatoes
+cooking_recipe,exampleSentence,what is the best recipe for tacos
+cooking_recipe,exampleSentence,find a recipe for chicken alfredo
+cooking_recipe,exampleSentence,how long do i roast chicken breasts
+cooking_recipe,exampleSentence,i want to cook pasta in american style show me how
+cooking_recipe,exampleSentence,what is the cooking time for mashed potatoes
+cooking_recipe,exampleSentence,how much meat should i buy to serve ten people
+cooking_recipe,exampleSentence,give me best cooking ideas
+cooking_recipe,exampleSentence,i want to cook italian dishes show me some
+cooking_recipe,exampleSentence,find apple pie recipe
+cooking_recipe,exampleSentence,i want to know the procedure of making thanksgiving turkey in five sentences
+cooking_recipe,exampleSentence,what temperature should a baked chicken be
+cooking_recipe,exampleSentence,i would like instructions on how to cook baked chicken
+cooking_recipe,exampleSentence,find me a recipe of spaghetti
+cooking_recipe,exampleSentence,what food is good
+cooking_recipe,exampleSentence,how do i cook a medium rare steak
+cooking_recipe,exampleSentence,please search for beginners guide to cooking
+cooking_recipe,exampleSentence,what do you use to make cookies
+cooking_recipe,exampleSentence,how to make cheesecake
+cooking_recipe,exampleSentence,what is a good way to make steak
+cooking_recipe,exampleSentence,what ingredient can be used to replace white wine
+cooking_recipe,exampleSentence,how to cook this food
+cooking_recipe,exampleSentence,how long should i simmer rice for
+cooking_recipe,exampleSentence,at what temperature should i bake cookies
+general_joke,exampleSentence,hey olly have you heard any funny jokes lately
+general_joke,exampleSentence,make me smile by telling a joke
+general_joke,exampleSentence,please tell me a joke
+general_joke,exampleSentence,what is the highest rated joke today
+general_joke,exampleSentence,jokes
+general_joke,exampleSentence,i need to be cheered up right now can you tell me a good joke
+general_joke,exampleSentence,i wanna laugh can you make it happen
+general_joke,exampleSentence,tell funny things
+general_joke,exampleSentence,share me a joke
+general_joke,exampleSentence,let me laugh hearing some good joke
+general_joke,exampleSentence,tell me a funny joke
+general_joke,exampleSentence,say something funny
+general_joke,exampleSentence,tell me some joke
+general_joke,exampleSentence,do you know any joke
+general_joke,exampleSentence,any funny jokes
+general_joke,exampleSentence,tell me a joke
+general_joke,exampleSentence,the joke of the day
+general_joke,exampleSentence,i want to hear a funny joke
+general_joke,exampleSentence,send a giggle my way
+general_joke,exampleSentence,say a good joke for me right now
+general_joke,exampleSentence,how many jokes do you know
+general_joke,exampleSentence,let me hear a joke
+general_joke,exampleSentence,i would like a joke
+general_joke,exampleSentence,tell me a clean joke
+general_joke,exampleSentence,tell a joke
+general_joke,exampleSentence,funny story
+general_joke,exampleSentence,i need a good joke
+general_joke,exampleSentence,say a funny
+general_joke,exampleSentence,i need a funny joke to tell sam
+general_joke,exampleSentence,i want to listen to a joke
+general_quirky,exampleSentence,jlo fan updates
+general_quirky,exampleSentence,what is the best method to decide what the best thing to do isre
+general_quirky,exampleSentence,what are the details on umf
+general_quirky,exampleSentence,can i tell you about my day
+general_quirky,exampleSentence,dolores how was your day
+general_quirky,exampleSentence,i would like to solve maths issues
+general_quirky,exampleSentence,why does tom izzo look like a whiny bitch when his team plays
+general_quirky,exampleSentence,can you feel
+general_quirky,exampleSentence,i saw a bulldog today
+general_quirky,exampleSentence,are you real
+general_quirky,exampleSentence,see you
+general_quirky,exampleSentence,moderate
+general_quirky,exampleSentence,did ashwin joined party yesterday
+general_quirky,exampleSentence,uefa european championship
+general_quirky,exampleSentence,what is the story of the movie titanic
+general_quirky,exampleSentence,is it true the hanging tree really had someone hung from it
+general_quirky,exampleSentence,what happened to charlie chaplin
+general_quirky,exampleSentence,please tell me how to do my daughters eighth grade math
+general_quirky,exampleSentence,i hate how long the traffic jams get
+general_quirky,exampleSentence,please check this info on geographics for me
+general_quirky,exampleSentence,hey today i was fired from my job
+general_quirky,exampleSentence,who won the sports game last night
+general_quirky,exampleSentence,i want to know more about the upcoming commonwealth games
+general_quirky,exampleSentence,i want it to be able to tell me statistics about things it's done for me like how often i've eaten out this month
+general_quirky,exampleSentence,why do some people still think the earth is flat
+general_quirky,exampleSentence,how many calories did i burn with my fifty minutes of yoga
+general_quirky,exampleSentence,when i want it to take down notes
+general_quirky,exampleSentence,can you tell me a little about yourself
+general_quirky,exampleSentence,horoscope
+general_quirky,exampleSentence,Is country better today or ten years ago
+lists_remove,exampleSentence,remove pepper from my grocery list
+lists_remove,exampleSentence,please remove this item from the list
+lists_remove,exampleSentence,please delete what i just typed
+lists_remove,exampleSentence,remove vegetables from the list
+lists_remove,exampleSentence,erase my grocery list
+lists_remove,exampleSentence,remove the bank transaction list
+lists_remove,exampleSentence,please remove the list
+lists_remove,exampleSentence,delete an item
+lists_remove,exampleSentence,reset my locations list
+lists_remove,exampleSentence,remove cheese from my list
+lists_remove,exampleSentence,list remove
+lists_remove,exampleSentence,drop it from list
+lists_remove,exampleSentence,can you remove my to do list
+lists_remove,exampleSentence,delete the item two from the list
+lists_remove,exampleSentence,please remove the grocery list from my set of lists
+lists_remove,exampleSentence,delete the shopping list
+lists_remove,exampleSentence,i want to cancel the recording i have on the dvr list for this morning
+lists_remove,exampleSentence,delete shopping list
+lists_remove,exampleSentence,please delete the last song that played from the playlist
+lists_remove,exampleSentence,take item off list
+lists_remove,exampleSentence,remove night night playlist
+lists_remove,exampleSentence,remove this list from the others
+lists_remove,exampleSentence,delete happy dance playlist
+lists_remove,exampleSentence,remove the list please
+lists_remove,exampleSentence,erase the chore list
+lists_remove,exampleSentence,please remove the following list
+lists_remove,exampleSentence,remove the sms recipient which have initials s
+lists_remove,exampleSentence,take that off there
+lists_remove,exampleSentence,remove noodles from the list
+lists_remove,exampleSentence,take off this list
+iot_coffee,exampleSentence,make some coffee
+iot_coffee,exampleSentence,i'd like a cup of coffee please
+iot_coffee,exampleSentence,make coffee
+iot_coffee,exampleSentence,i want to drink coffee
+iot_coffee,exampleSentence,explain how to set my coffee machine
+iot_coffee,exampleSentence,prepare some cups of coffee for us
+iot_coffee,exampleSentence,make me coffee
+iot_coffee,exampleSentence,order one coffee to starbucks coffee shop
+iot_coffee,exampleSentence,coffee
+iot_coffee,exampleSentence,i need some coffee
+iot_coffee,exampleSentence,i fancy some coffee now
+iot_coffee,exampleSentence,go and make me a coffee
+iot_coffee,exampleSentence,cup of coffee please
+iot_coffee,exampleSentence,make me some coffee from the coffee machine
+iot_coffee,exampleSentence,do coffee
+iot_coffee,exampleSentence,i cup of joe would be nice right now
+iot_coffee,exampleSentence,can you start the coffee
+iot_coffee,exampleSentence,i need some coffee please
+iot_coffee,exampleSentence,can you set my coffee machine to make me coffee at seven am
+iot_coffee,exampleSentence,i would like some coffee now
+iot_coffee,exampleSentence,make me some coffee
+iot_coffee,exampleSentence,make me a cup of coffee with salted carmel flavored cream
+iot_coffee,exampleSentence,program coffee machine to brew coffee in two minutes
+iot_coffee,exampleSentence,please make me a coffee using the coffee machine
+iot_coffee,exampleSentence,prepare a coffee
+iot_coffee,exampleSentence,i want coffee
+iot_coffee,exampleSentence,get me a coffee
+iot_coffee,exampleSentence,start coffee machine
+iot_coffee,exampleSentence,i need to wake up make me the strongest coffee you can make
+iot_coffee,exampleSentence,i need coffee please preferably hot
+iot_wemo_off,exampleSentence,power off wemo plug socket
+iot_wemo_off,exampleSentence,turn off the smart plug
+iot_wemo_off,exampleSentence,shut the smart socket down
+iot_wemo_off,exampleSentence,turn off sockets
+iot_wemo_off,exampleSentence,cut wemo power please
+iot_wemo_off,exampleSentence,turn off wemo
+iot_wemo_off,exampleSentence,turn off the wemo plug socket
+iot_wemo_off,exampleSentence,if idle then turn off else turn on
+iot_wemo_off,exampleSentence,turn off my wifi
+iot_wemo_off,exampleSentence,disable wemo socket
+iot_wemo_off,exampleSentence,can you please turn off my wemo plug
+iot_wemo_off,exampleSentence,can you turn off wemo plug socket
+iot_wemo_off,exampleSentence,power down the plug socket one
+iot_wemo_off,exampleSentence,please turn off the wemo plug
+iot_wemo_off,exampleSentence,please turn off wemo socket
+iot_wemo_off,exampleSentence,power off please
+iot_wemo_off,exampleSentence,switch off the plug point
+iot_wemo_off,exampleSentence,make the smart socket turn off
+iot_wemo_off,exampleSentence,turn off wemo plug in game room
+iot_wemo_off,exampleSentence,smart plug socket off please
+iot_wemo_off,exampleSentence,turn off my smart plug in thirty minutes
+iot_wemo_off,exampleSentence,turn off the socket
+iot_wemo_off,exampleSentence,i want the wemo socket off
+iot_wemo_off,exampleSentence,keep the socket in off condition
+iot_wemo_off,exampleSentence,power off the wemo plug
+iot_wemo_off,exampleSentence,please switch off on the wemo plug socket
+iot_wemo_off,exampleSentence,shut down sps
+iot_wemo_off,exampleSentence,off all type of active devices
+iot_wemo_off,exampleSentence,wemo plug socket off
+iot_wemo_off,exampleSentence,socket off
+weather_query,exampleSentence,how much snow has fallen in maine since yesterday
+weather_query,exampleSentence,tell me the current weather for danville il
+weather_query,exampleSentence,how is the weather likely to be this week
+weather_query,exampleSentence,how many degrees is it in orange tx right now
+weather_query,exampleSentence,check the weather app to see if
+weather_query,exampleSentence,please tell me the chances of rain this week for zip code twenty nine thousand nine hundred and seventy eight
+weather_query,exampleSentence,is it snowing in california
+weather_query,exampleSentence,home town weather
+weather_query,exampleSentence,status of weather
+weather_query,exampleSentence,what is the weather this friday
+weather_query,exampleSentence,show me the weather forecast for the next three three days
+weather_query,exampleSentence,how's the weather like in beijing
+weather_query,exampleSentence,what will the weather be next week
+weather_query,exampleSentence,whether it would be sunny in califonia
+weather_query,exampleSentence,weather in chicago please
+weather_query,exampleSentence,should i wear a hat today
+weather_query,exampleSentence,how is the weather down in orange tx
+weather_query,exampleSentence,do i need a rain coat today
+weather_query,exampleSentence,what's the current temperature outside
+weather_query,exampleSentence,weather forecast please
+weather_query,exampleSentence,are you sure its going to rain tomorrow
+weather_query,exampleSentence,will i need sunblock this weekend
+weather_query,exampleSentence,what degree is it outside
+weather_query,exampleSentence,what is the forecast for the week
+weather_query,exampleSentence,is there any chances of rain this week
+weather_query,exampleSentence,will i need an umbrella today
+weather_query,exampleSentence,do i need to take an umbrella today
+weather_query,exampleSentence,will the temperature be higher than forty tomorrow
+weather_query,exampleSentence,weather report of the week
+weather_query,exampleSentence,how's the weather today
+email_querycontact,exampleSentence,what information do you have on file in my information about bill
+email_querycontact,exampleSentence,look up in contacts
+email_querycontact,exampleSentence,what's leon's email
+email_querycontact,exampleSentence,do i have a work number for susan
+email_querycontact,exampleSentence,how many of my contacts live or work in detroit
+email_querycontact,exampleSentence,provide contact location
+email_querycontact,exampleSentence,call raju phone number
+email_querycontact,exampleSentence,check and tell me the address of my friend alex
+email_querycontact,exampleSentence,hey ms the email address of john miller
+email_querycontact,exampleSentence,what's john's home phone number
+email_querycontact,exampleSentence,mary's contact number
+email_querycontact,exampleSentence,tell me the office address of my brother
+email_querycontact,exampleSentence,what is john smith's number
+email_querycontact,exampleSentence,search the contact
+email_querycontact,exampleSentence,add rebecca green to my list of favorite contacts
+email_querycontact,exampleSentence,show john's contact information
+email_querycontact,exampleSentence,link me to jeff's email
+email_querycontact,exampleSentence,do i have the address for the apple store in my contacts
+email_querycontact,exampleSentence,do i have any other contact phone number for alison
+email_querycontact,exampleSentence,show contact of john
+email_querycontact,exampleSentence,show dan's contact detail
+email_querycontact,exampleSentence,is mary smith in my contacts list
+email_querycontact,exampleSentence,contacts please
+email_querycontact,exampleSentence,what is mr taxi's phone number it is in my contacts
+email_querycontact,exampleSentence,julie's information
+email_querycontact,exampleSentence,what is john's phone number
+email_querycontact,exampleSentence,what is john smith's home phone number
+email_querycontact,exampleSentence,when is john's birthday
+email_querycontact,exampleSentence,does contact mona has an email as well
+email_querycontact,exampleSentence,select the contact
+social_post,exampleSentence,lets send a tweet
+social_post,exampleSentence,two thumbs down @companyname
+social_post,exampleSentence,post a new status on facebook saying that i am enjoying the nice weather
+social_post,exampleSentence,i need to submit a complaint
+social_post,exampleSentence,tweet verizon customer service
+social_post,exampleSentence,send a tweet
+social_post,exampleSentence,send a tweet to tmobile for rude employees
+social_post,exampleSentence,tweet my complaint to @nsa
+social_post,exampleSentence,post to twitter got a hectic day ahead
+social_post,exampleSentence,please tweet the following complaint
+social_post,exampleSentence,tweet kohls about the cleanliness of their store
+social_post,exampleSentence,please send a complaint to someone
+social_post,exampleSentence,tweet complaint to american eagle customer service
+social_post,exampleSentence,tell comcast i am still on hold
+social_post,exampleSentence,complain for cheating
+social_post,exampleSentence,i would like to make a post on times twitter
+social_post,exampleSentence,tweet a complaint to apple about my iphone seven
+social_post,exampleSentence,can you contact samsung and say my washer is on fire
+social_post,exampleSentence,post new status
+social_post,exampleSentence,can you send a tweet to lif saying that their app crashed
+social_post,exampleSentence,tweet something for me
+social_post,exampleSentence,send a complaint to my boss
+social_post,exampleSentence,tweet my complaint on targets customer service
+social_post,exampleSentence,hello my item which i bought from some one has gone out of order
+social_post,exampleSentence,complaint on service provider on my twitter
+social_post,exampleSentence,tweet insight cable's customer service and tell them i have been waiting on hold for thirty minutes
+social_post,exampleSentence,post a facebook status engaged
+social_post,exampleSentence,please negative response tweet on daikin service
+social_post,exampleSentence,please post this picture on facebook
+social_post,exampleSentence,tweet at quote unquote
+transport_ticket,exampleSentence,please order one train ticket to los angeles
+transport_ticket,exampleSentence,look for train tickets to edinburgh tomorrow
+transport_ticket,exampleSentence,i need to get to bristol Friday night can you book me a ticket please
+transport_ticket,exampleSentence,order a train ticket to boston
+transport_ticket,exampleSentence,train ticket please
+transport_ticket,exampleSentence,ticket for delhi
+transport_ticket,exampleSentence,order travel ticket
+transport_ticket,exampleSentence,train tickets for two people from delhi to mumbai
+transport_ticket,exampleSentence,i want a train ticket
+transport_ticket,exampleSentence,can you check train schedule to berkeley
+transport_ticket,exampleSentence,book a ticket to paris on eurostar at five pm this Friday
+transport_ticket,exampleSentence,find me a cheap train ticket for miamy
+transport_ticket,exampleSentence,please train
+transport_ticket,exampleSentence,buy train tickets from delhi to mumbai for twenty third march
+transport_ticket,exampleSentence,book me a train ticket to new york city on the third i don't care what time
+transport_ticket,exampleSentence,can you book me a train ticket to bombay for tomorrow in any train
+transport_ticket,exampleSentence,can you book me a train ticket to boston for next tuesday
+transport_ticket,exampleSentence,buy an acela train ticket on thursday
+transport_ticket,exampleSentence,google search booking train ticket
+transport_ticket,exampleSentence,please purchase a train ticket for this weekend
+transport_ticket,exampleSentence,book a train ticket from orlando to chicago
+transport_ticket,exampleSentence,i need a ticket on the train to new york city tomorrow
+transport_ticket,exampleSentence,please purchase me a train ticket to atlanta
+transport_ticket,exampleSentence,book me a train ticket for saturday
+transport_ticket,exampleSentence,book a ticket to ny by train
+transport_ticket,exampleSentence,book train best deal
+transport_ticket,exampleSentence,find me a train ticket next monday to new york city
+transport_ticket,exampleSentence,book a ticket for today in irctc site for the stored information
+transport_ticket,exampleSentence,book train ticket for this time
+transport_ticket,exampleSentence,transportation ticket booking train
+takeaway_order,exampleSentence,search for pizza nearby
+takeaway_order,exampleSentence,call eastwind and order lomaine to go
+takeaway_order,exampleSentence,order six chicken tacos from chipotle
+takeaway_order,exampleSentence,how about some pizza tonight can you please order a pepperoni large
+takeaway_order,exampleSentence,place order for usual burritto at chipolte
+takeaway_order,exampleSentence,order a large pan pizza with ham and mushrooms from pizza hut
+takeaway_order,exampleSentence,order takeout pizza from domino's for seven pm
+takeaway_order,exampleSentence,pull up the menu for the closest mexican restaurant
+takeaway_order,exampleSentence,show me chinese food near me
+takeaway_order,exampleSentence,i am really craving for chinese food right now please let me order take out
+takeaway_order,exampleSentence,i want to eat something will you order food for me
+takeaway_order,exampleSentence,place an order for a combo platter from china buffet
+takeaway_order,exampleSentence,can i order take out food at this time
+takeaway_order,exampleSentence,order chinese for delivery
+takeaway_order,exampleSentence,i would like to order takeaway
+takeaway_order,exampleSentence,i want to order food
+takeaway_order,exampleSentence,order a meal from a nice restaurant
+takeaway_order,exampleSentence,find restaurant order food name
+takeaway_order,exampleSentence,i want to eat two pita gyros please and some diet coke
+takeaway_order,exampleSentence,open grubhub
+takeaway_order,exampleSentence,call china king chinese restaurant
+takeaway_order,exampleSentence,what places can i order takeout from near by
+takeaway_order,exampleSentence,find hotel order food name
+takeaway_order,exampleSentence,order a ham and cheese sandwich from subway
+takeaway_order,exampleSentence,call and order pizza for delivery
+takeaway_order,exampleSentence,please call the golden fork and tell them to deliver one portion of the fish risotto
+takeaway_order,exampleSentence,ordering food
+takeaway_order,exampleSentence,id like to put in an order for some chinese food with hunan wok
+takeaway_order,exampleSentence,please call china wok and order number seven
+takeaway_order,exampleSentence,order takeout
+email_sendemail,exampleSentence,respond to my bosses email with the word that i will be in at four in the evening
+email_sendemail,exampleSentence,please send a voice mail to mr richard office about meting him on first of february twenty seventeen at five pm
+email_sendemail,exampleSentence,send an email to mom subject weather body what is the weather like there this week
+email_sendemail,exampleSentence,compose this email to this new email address
+email_sendemail,exampleSentence,compose a mail for jack
+email_sendemail,exampleSentence,i need to add a new email to my contacts
+email_sendemail,exampleSentence,send a mail to whom to talk
+email_sendemail,exampleSentence,send email new address
+email_sendemail,exampleSentence,send mom an email now
+email_sendemail,exampleSentence,reply to erins email by saying i will be on time
+email_sendemail,exampleSentence,email james about the softball game james we need to get some refreshments before heading over
+email_sendemail,exampleSentence,send email to family and tell them to bring the bug spray before coming to the park
+email_sendemail,exampleSentence,please reply to my colleagues mail about his query
+email_sendemail,exampleSentence,i did not want you to send that text yet wait until i say send
+email_sendemail,exampleSentence,tell to joe's email that come to my house in this moment i am alone
+email_sendemail,exampleSentence,please send mom an email saying that i can make it next week
+email_sendemail,exampleSentence,pull up outlook i need to send a email
+email_sendemail,exampleSentence,inbox my family
+email_sendemail,exampleSentence,send the following email to bro hi come down for dinner tonight
+email_sendemail,exampleSentence,send email to nancy about tomorrow's work party details
+email_sendemail,exampleSentence,reply to heather's latest email by answering no
+email_sendemail,exampleSentence,send an email to my boss
+email_sendemail,exampleSentence,reach by mail to my family
+email_sendemail,exampleSentence,pleas reply to the mail of allen
+email_sendemail,exampleSentence,email chris add following content sorry I will be late today
+email_sendemail,exampleSentence,go to email and send message to
+email_sendemail,exampleSentence,compose email
+email_sendemail,exampleSentence,go to email compile
+email_sendemail,exampleSentence,send the email to john
+email_sendemail,exampleSentence,send a reply to robert for his email received today morning
+audio_volume_mute,exampleSentence,set to silent for five minutes
+audio_volume_mute,exampleSentence,please mute for five minutes
+audio_volume_mute,exampleSentence,turn on silent mode until my alarm goes off
+audio_volume_mute,exampleSentence,i've got a meeting by tonight seven pm please mute the music for an hour
+audio_volume_mute,exampleSentence,turn the vibrate off from speaker
+audio_volume_mute,exampleSentence,mute yourself when i am in a meeting
+audio_volume_mute,exampleSentence,please stop talking
+audio_volume_mute,exampleSentence,Silence speakers
+audio_volume_mute,exampleSentence,mute for the next hour please
+audio_volume_mute,exampleSentence,mute sound from speakers
+audio_volume_mute,exampleSentence,turn the volume off
+audio_volume_mute,exampleSentence,i want you to mute
+audio_volume_mute,exampleSentence,don't speak for a while
+audio_volume_mute,exampleSentence,mute for two hours
+audio_volume_mute,exampleSentence,mute all responses now
+audio_volume_mute,exampleSentence,can you mute my speaker
+audio_volume_mute,exampleSentence,mute the speakers
+audio_volume_mute,exampleSentence,i'm in a meeting please do not speak
+audio_volume_mute,exampleSentence,go silent for a day
+audio_volume_mute,exampleSentence,don't talk until i ask you to
+audio_volume_mute,exampleSentence,set to mute
+audio_volume_mute,exampleSentence,please mute the speakers
+audio_volume_mute,exampleSentence,please mute yourself
+audio_volume_mute,exampleSentence,please do not speak
+audio_volume_mute,exampleSentence,mute audio
+audio_volume_mute,exampleSentence,from now on mute
+audio_volume_mute,exampleSentence,turn off speaker
+audio_volume_mute,exampleSentence,please mute my speaker
+audio_volume_mute,exampleSentence,make the volume to zero
+audio_volume_mute,exampleSentence,don't speak for an hour
+play_game,exampleSentence,paper scissors or stone
+play_game,exampleSentence,let's play some pong
+play_game,exampleSentence,play scabble with me
+play_game,exampleSentence,open tic tac toe
+play_game,exampleSentence,play candy crush
+play_game,exampleSentence,open up tetris
+play_game,exampleSentence,can you find animal crossing
+play_game,exampleSentence,Please play this game
+play_game,exampleSentence,can you play a game with me
+play_game,exampleSentence,play chess
+play_game,exampleSentence,start the league of legends game
+play_game,exampleSentence,start spider
+play_game,exampleSentence,start play spider
+play_game,exampleSentence,let's play a game how about tic tac toe
+play_game,exampleSentence,get the duet game
+play_game,exampleSentence,could you harvest the crops in farmvile
+play_game,exampleSentence,please open go fish game and play it with me
+play_game,exampleSentence,start a match of chess
+play_game,exampleSentence,want to play a game
+play_game,exampleSentence,can we play a game of hangman
+play_game,exampleSentence,please play trivial pursuit with me
+play_game,exampleSentence,open chess game
+play_game,exampleSentence,can we play twenty questions
+play_game,exampleSentence,let's play space invaders
+play_game,exampleSentence,let's roll the dice
+play_game,exampleSentence,play for me the game temple run
+play_game,exampleSentence,create a playing teams and play with them
+play_game,exampleSentence,launch game
+play_game,exampleSentence,can you play tic tac toe
+play_game,exampleSentence,turn on flappy bird
+iot_wemo_on,exampleSentence,outlet on
+iot_wemo_on,exampleSentence,turn on the fan socket
+iot_wemo_on,exampleSentence,i need to turn on the plug in my office for my computer
+iot_wemo_on,exampleSentence,turn on the socket
+iot_wemo_on,exampleSentence,turn on the wemo plug socket to connect my charger to it
+iot_wemo_on,exampleSentence,start the smart plug
+iot_wemo_on,exampleSentence,times clapping sound times
+iot_wemo_on,exampleSentence,wemo plug socket turn on
+iot_wemo_on,exampleSentence,please turn on the smart socket
+iot_wemo_on,exampleSentence,enable smart socket
+iot_wemo_on,exampleSentence,please turn on my door lock
+iot_wemo_on,exampleSentence,please switch on my wemo plug socket
+iot_wemo_on,exampleSentence,wemo plug socket on
+iot_wemo_on,exampleSentence,turn on living room radio
+iot_wemo_on,exampleSentence,on the plug
+iot_wemo_on,exampleSentence,turn on my plug
+iot_wemo_on,exampleSentence,turn on kitchen light
+iot_wemo_on,exampleSentence,on mobile charger plug
+iot_wemo_on,exampleSentence,if switch is on then turn on else turn off
+iot_wemo_on,exampleSentence,turn on the light socket
+iot_wemo_on,exampleSentence,enable wemo
+iot_wemo_on,exampleSentence,switch on the wemo plug
+iot_wemo_on,exampleSentence,enable my plug
+iot_wemo_on,exampleSentence,power up the plug socket one
+iot_wemo_on,exampleSentence,turn my plug on
+iot_wemo_on,exampleSentence,please turn on wemo socket
+iot_wemo_on,exampleSentence,turn on my son's room plug socket on off
+iot_wemo_on,exampleSentence,turn the smart plug on
+iot_wemo_on,exampleSentence,turn on the wemo plug
+iot_wemo_on,exampleSentence,turn my bathroom plug socket on
+iot_hue_lightchange,exampleSentence,lights at percent
+iot_hue_lightchange,exampleSentence,change the lights in the house to green
+iot_hue_lightchange,exampleSentence,i don't like this light please show me other options
+iot_hue_lightchange,exampleSentence,change my house lights colour to blue
+iot_hue_lightchange,exampleSentence,can the lights be changed to green
+iot_hue_lightchange,exampleSentence,can you shuffle the light colors in the house
+iot_hue_lightchange,exampleSentence,make my lights green
+iot_hue_lightchange,exampleSentence,can you change the living room lights to a softer color
+iot_hue_lightchange,exampleSentence,change the light color the red
+iot_hue_lightchange,exampleSentence,select a different color for the lights
+iot_hue_lightchange,exampleSentence,want to have vibrant colours
+iot_hue_lightchange,exampleSentence,set the mood please
+iot_hue_lightchange,exampleSentence,make the lights shine blue
+iot_hue_lightchange,exampleSentence,change the lights into green
+iot_hue_lightchange,exampleSentence,change the lights in the kitchen to blue
+iot_hue_lightchange,exampleSentence,replace color from light to dark
+iot_hue_lightchange,exampleSentence,change the lights to green
+iot_hue_lightchange,exampleSentence,change color
+iot_hue_lightchange,exampleSentence,change the overhead light to orange
+iot_hue_lightchange,exampleSentence,house change all lights to blue
+iot_hue_lightchange,exampleSentence,make the lights pink
+iot_hue_lightchange,exampleSentence,change color of the light to red outside the house
+iot_hue_lightchange,exampleSentence,set the lights on blue
+iot_hue_lightchange,exampleSentence,change background
+iot_hue_lightchange,exampleSentence,can you change the light colors in the house
+iot_hue_lightchange,exampleSentence,make the lights pink at the house
+iot_hue_lightchange,exampleSentence,change lights to red
+iot_hue_lightchange,exampleSentence,change the lights to red
+iot_hue_lightchange,exampleSentence,make the lights in my home yellow
+iot_hue_lightchange,exampleSentence,show me the available colours of lights
+email_addcontact,exampleSentence,save my contacts
+email_addcontact,exampleSentence,change my mum's email in my phonebook
+email_addcontact,exampleSentence,please place my new email address to the contact
+email_addcontact,exampleSentence,please add smurfette@gmail dot com to my email contacts
+email_addcontact,exampleSentence,open up contacts and add email something@gmail dot com
+email_addcontact,exampleSentence,add email address iamironman@gmail dot com
+email_addcontact,exampleSentence,add a new email address which is
+email_addcontact,exampleSentence,add a new email
+email_addcontact,exampleSentence,just add a new email in my contacts from michael
+email_addcontact,exampleSentence,update my contacts with the new contact sam@gmail dot com
+email_addcontact,exampleSentence,add this email to my contact
+email_addcontact,exampleSentence,add this email to a new contact
+email_addcontact,exampleSentence,store my contacts
+email_addcontact,exampleSentence,add email to contacts
+email_addcontact,exampleSentence,please add johndoe@yahoocom to my contact list
+email_addcontact,exampleSentence,add sarah as email contact
+email_addcontact,exampleSentence,can you look up and add john's old email to my contacts again
+email_addcontact,exampleSentence,i need you to add this email in my contacts
+email_addcontact,exampleSentence,please add smithjoe@email dot com to the contact information for joe smith
+email_addcontact,exampleSentence,add erosser@hotmail dot com as a new contact for emily rosser
+email_addcontact,exampleSentence,save to contacts
+email_addcontact,exampleSentence,add a new email in my contacts from john
+email_addcontact,exampleSentence,remember this email
+email_addcontact,exampleSentence,add this email to my contact list
+email_addcontact,exampleSentence,save this email in my contact for future use
+email_addcontact,exampleSentence,please add an email for john doe to my contacts johndoe@yahoo dot com
+email_addcontact,exampleSentence,please add an email to my contacts
+email_addcontact,exampleSentence,put sam@gmail dot com in my email contacts list
+email_addcontact,exampleSentence,create new contact with email
+email_addcontact,exampleSentence,add new email to my contacts macs@gmail dot com
+recommendation_movies,exampleSentence,recommend a romantic comedy in me area
+recommendation_movies,exampleSentence,recommend a movie with justin bieber
+recommendation_movies,exampleSentence,what are new drama movies opening this weekend
+recommendation_movies,exampleSentence,show me theatre where pirates of caribbean is playing
+recommendation_movies,exampleSentence,what movies are playing right now
+recommendation_movies,exampleSentence,suggest a good genre movie that came out recently
+recommendation_movies,exampleSentence,deadpool
+recommendation_movies,exampleSentence,is logan a good movie to watch
+recommendation_movies,exampleSentence,what is a good iranian film from two thousand and sixteen
+recommendation_movies,exampleSentence,what movies are playing at theatres near me
+recommendation_movies,exampleSentence,i need a good chick flick any thoughts
+recommendation_movies,exampleSentence,look up movies near me
+recommendation_movies,exampleSentence,kung fu panda three
+recommendation_movies,exampleSentence,whats a new sci fi movie
+recommendation_movies,exampleSentence,what are good movies playing now
+recommendation_movies,exampleSentence,what are the show times for logan at the nearby theatre
+recommendation_movies,exampleSentence,what's playing in the roosendaal cinema
+recommendation_movies,exampleSentence,name a rom com movie playing in and around new york theatres
+recommendation_movies,exampleSentence,show me movie times
+recommendation_movies,exampleSentence,local theater screening which movie
+recommendation_movies,exampleSentence,what movies are playing tonight at nine pm at the amc nine
+recommendation_movies,exampleSentence,what are the show times of logan
+recommendation_movies,exampleSentence,can you recommend some movies to watch in theater near me
+recommendation_movies,exampleSentence,can you tell me which movie is going on in the nearby multiplex
+recommendation_movies,exampleSentence,tell me the movie with best imdb ratings going on in theatres near me
+recommendation_movies,exampleSentence,what movie theatres are in stephenville
+recommendation_movies,exampleSentence,confirm a movie ticket at glory theater
+recommendation_movies,exampleSentence,what time will a movie be shown tomorrow
+recommendation_movies,exampleSentence,give me a movie for tonight
+recommendation_movies,exampleSentence,what are movies that are playing near me with high reviews
+qa_maths,exampleSentence,how much is remaining after subtracting four from eight
+qa_maths,exampleSentence,sum of five and two
+qa_maths,exampleSentence,one plus two equal
+qa_maths,exampleSentence,fifteen plus twenty
+qa_maths,exampleSentence,what's the sum of the two numbers four and six
+qa_maths,exampleSentence,what is the square root of forty two
+qa_maths,exampleSentence,what is the linear equation
+qa_maths,exampleSentence,how do i get the answer to two plus two
+qa_maths,exampleSentence,do you know math
+qa_maths,exampleSentence,what is five divided by one
+qa_maths,exampleSentence,how much is one plus one
+qa_maths,exampleSentence,how do you subtract numbers
+qa_maths,exampleSentence,what is the answer to dollars minus dollars
+qa_maths,exampleSentence,what is fourteen divided by two
+qa_maths,exampleSentence,what is two hundred divided by ten
+qa_maths,exampleSentence,what's two plus two
+qa_maths,exampleSentence,what is two plus four
+qa_maths,exampleSentence,what is the square root of thirty six
+qa_maths,exampleSentence,answer for three times four
+qa_maths,exampleSentence,what is twenty percent of one hundred and fifty
+qa_maths,exampleSentence,solve the calculation
+qa_maths,exampleSentence,what does two plus two equal
+qa_maths,exampleSentence,what is four plus four
+qa_maths,exampleSentence,ten percentages of hundred
+qa_maths,exampleSentence,tell me formula for area of circle
+qa_maths,exampleSentence,what is five minus one
+qa_maths,exampleSentence,resolve this thirty twelve
+qa_maths,exampleSentence,divide one thousand five hundred by one hundred and sixty
+qa_maths,exampleSentence,what is twelve plus one hundred and ninety six
+qa_maths,exampleSentence,what does one plus
+alarm_query,exampleSentence,review all alarms
+alarm_query,exampleSentence,show me my alarms i have set
+alarm_query,exampleSentence,how many alarms have i set
+alarm_query,exampleSentence,show alarms
+alarm_query,exampleSentence,show me the alarms i set
+alarm_query,exampleSentence,confirm i have set an alarm for six am
+alarm_query,exampleSentence,today how many alarms do i have set
+alarm_query,exampleSentence,what alarms will wake me up tomorrow
+alarm_query,exampleSentence,have i got any alarms set
+alarm_query,exampleSentence,let me know about the alarms you set
+alarm_query,exampleSentence,is there any alarm active
+alarm_query,exampleSentence,tell me about the alarm timings
+alarm_query,exampleSentence,what alarms did i set today
+alarm_query,exampleSentence,are there any alarms going off today
+alarm_query,exampleSentence,list all set alarms
+alarm_query,exampleSentence,check if i have set any alarm for morning
+alarm_query,exampleSentence,please list all my alarms
+alarm_query,exampleSentence,which alarms are set in the phone
+alarm_query,exampleSentence,any alarms currently listed
+alarm_query,exampleSentence,show me all of my active alarms
+alarm_query,exampleSentence,what home alarms have been set
+alarm_query,exampleSentence,when was the last alarm set
+alarm_query,exampleSentence,what alarms are coming up
+alarm_query,exampleSentence,please tell me my alarms
+alarm_query,exampleSentence,what time is set for my wake up alarm
+alarm_query,exampleSentence,what time is alarm set for
+alarm_query,exampleSentence,my set alarms
+alarm_query,exampleSentence,what alarms do i have scheduled for tomorrow
+alarm_query,exampleSentence,please read me my alarms
+alarm_query,exampleSentence,what alarms do i all have set
+general_commandstop,exampleSentence,olly can you please shut off.
+general_commandstop,exampleSentence,please just cancel.
+general_commandstop,exampleSentence,will you please shut down.
+general_commandstop,exampleSentence,i will talk to you later.
+general_commandstop,exampleSentence,i want you cancel.
+general_commandstop,exampleSentence,olly please can you shut up.
+general_commandstop,exampleSentence,olly will you please shut down.
+general_commandstop,exampleSentence,i like you just cancel.
+general_commandstop,exampleSentence,could you just cancel it please.
+general_commandstop,exampleSentence,please cancel.
+general_commandstop,exampleSentence,olly can you shut off.
+general_commandstop,exampleSentence,olly that is all.
+general_commandstop,exampleSentence,olly please can you just stop it.
+general_commandstop,exampleSentence,would you cancel it please.
+general_commandstop,exampleSentence,i would like you just stop it.
+general_commandstop,exampleSentence,olly can you shut up.
+general_commandstop,exampleSentence,olly will you stop.
+general_commandstop,exampleSentence,just cancel.
+general_commandstop,exampleSentence,can you shut up please.
+general_commandstop,exampleSentence,will you cancel it.
+general_commandstop,exampleSentence,olly that is enough
+general_commandstop,exampleSentence,would you please shut up.
+general_commandstop,exampleSentence,olly will you cancel please.
+general_commandstop,exampleSentence,olly that is enough
+general_commandstop,exampleSentence,will you please shut off.
+general_commandstop,exampleSentence,that's enough
+general_commandstop,exampleSentence,can you just cancel it.
+general_commandstop,exampleSentence,just cancel please.
+general_commandstop,exampleSentence,olly please would you shut off.
+general_commandstop,exampleSentence,please could you shut off.
+alarm_remove,exampleSentence,remove my bedtime alarm
+alarm_remove,exampleSentence,clear my nine am alarms
+alarm_remove,exampleSentence,one pm removed
+alarm_remove,exampleSentence,please turn off my alarm for this evening
+alarm_remove,exampleSentence,please delete the wednesday evening alarm
+alarm_remove,exampleSentence,i would like this alarm permanently removed
+alarm_remove,exampleSentence,disable the first alarm
+alarm_remove,exampleSentence,disable alarm for three pm
+alarm_remove,exampleSentence,remove tuesday alarm of nine am
+alarm_remove,exampleSentence,reset alarm
+alarm_remove,exampleSentence,olly cancel all soccer practice alarms
+alarm_remove,exampleSentence,olly cancel alarms
+alarm_remove,exampleSentence,do not wake me up on weekends
+alarm_remove,exampleSentence,remove my wake up alarm
+alarm_remove,exampleSentence,reset the alarm
+alarm_remove,exampleSentence,olly cancel yoga alarms
+alarm_remove,exampleSentence,remove all alarms set today
+alarm_remove,exampleSentence,remove my work alarm
+alarm_remove,exampleSentence,disable my three pm alarm
+alarm_remove,exampleSentence,snooze all today's alarms permanently
+alarm_remove,exampleSentence,remove all alarms
+alarm_remove,exampleSentence,delete my eight pm alarm
+alarm_remove,exampleSentence,unset all alarm which is set
+alarm_remove,exampleSentence,remove my six am alarm
+alarm_remove,exampleSentence,remove my early alarms
+alarm_remove,exampleSentence,turn off my first alarm
+alarm_remove,exampleSentence,get rid of my eight am alarm
+alarm_remove,exampleSentence,snooze
+alarm_remove,exampleSentence,i dont want any alarms
+alarm_remove,exampleSentence,turn off all of my alarms
+transport_traffic,exampleSentence,how is the traffic at the moment
+transport_traffic,exampleSentence,system pull any traffic news for my commute
+transport_traffic,exampleSentence,can i make back home without a traffic jam
+transport_traffic,exampleSentence,how's are the roads looking right now
+transport_traffic,exampleSentence,how heavy is traffic on interstate twenty
+transport_traffic,exampleSentence,in delhi traffic level too high
+transport_traffic,exampleSentence,is the road in some particular area wide or narrow
+transport_traffic,exampleSentence,current traffic conditions
+transport_traffic,exampleSentence,give details about the current traffic
+transport_traffic,exampleSentence,is there any traffic to work
+transport_traffic,exampleSentence,outside traffic status please
+transport_traffic,exampleSentence,what is current traffic in ohio
+transport_traffic,exampleSentence,how long should the drive to work take
+transport_traffic,exampleSentence,in jaipur traffic level is high
+transport_traffic,exampleSentence,what is the traffic like right now on telegraph
+transport_traffic,exampleSentence,what's traffic look like over the golden gate bridge
+transport_traffic,exampleSentence,is there more traffic in canal street
+transport_traffic,exampleSentence,is it possible to drive now in ohio
+transport_traffic,exampleSentence,what is the current traffic in washington town
+transport_traffic,exampleSentence,are the streets congested right now
+transport_traffic,exampleSentence,is there any traffic on my way to work
+transport_traffic,exampleSentence,is there traffic right now in maiden lane
+transport_traffic,exampleSentence,what is the traffic situation right in broadway street
+transport_traffic,exampleSentence,what are the traffic conditions currently
+transport_traffic,exampleSentence,traffic status please
+transport_traffic,exampleSentence,will traffic be good when i leave in five minutes
+transport_traffic,exampleSentence,are there any construction areas on harvard
+transport_traffic,exampleSentence,what does the traffic look like on my usual route to work
+transport_traffic,exampleSentence,what is my eta to the office if i leave in thirty minutes
+transport_traffic,exampleSentence,how congested is the traffic on my way to work
+general_dontcare,exampleSentence,wouldn't really mind for whatever.
+general_dontcare,exampleSentence,whatever is okay with me.
+general_dontcare,exampleSentence,i would not mind to select any one.
+general_dontcare,exampleSentence,i have no idea for which to select.
+general_dontcare,exampleSentence,i don't mind for whatever.
+general_dontcare,exampleSentence,i have no idea regarding to what to do
+general_dontcare,exampleSentence,would not know.
+general_dontcare,exampleSentence,anything is ok with me.
+general_dontcare,exampleSentence,i wouldn't really mind.
+general_dontcare,exampleSentence,whatever will be okay for me.
+general_dontcare,exampleSentence,would not care.
+general_dontcare,exampleSentence,that is of no importance for me.
+general_dontcare,exampleSentence,any one would be okay
+general_dontcare,exampleSentence,whatever is okay for me.
+general_dontcare,exampleSentence,any one will be okay with me
+general_dontcare,exampleSentence,any one will be ok with me
+general_dontcare,exampleSentence,i wouldn't bother.
+general_dontcare,exampleSentence,have no idea regarding to which to select
+general_dontcare,exampleSentence,i would not know
+general_dontcare,exampleSentence,i do not know
+general_dontcare,exampleSentence,really would not mind.
+general_dontcare,exampleSentence,i do not really mind for whatever.
+general_dontcare,exampleSentence,i do not know.
+general_dontcare,exampleSentence,i have no idea for which to choose
+general_dontcare,exampleSentence,this does not matter to me
+general_dontcare,exampleSentence,have no idea regarding to which to select.
+general_dontcare,exampleSentence,i do not really care
+general_dontcare,exampleSentence,i wouldn't really bother
+general_dontcare,exampleSentence,i wouldn't really care.
+general_dontcare,exampleSentence,do not really bother.
+iot_hue_lightup,exampleSentence,can you please turn up the lights
+iot_hue_lightup,exampleSentence,increase brightness in the room
+iot_hue_lightup,exampleSentence,i want to bright the room more
+iot_hue_lightup,exampleSentence,turn up the light
+iot_hue_lightup,exampleSentence,light colour for study room
+iot_hue_lightup,exampleSentence,make this room brighter
+iot_hue_lightup,exampleSentence,pull up lights control
+iot_hue_lightup,exampleSentence,raise living room lights half way
+iot_hue_lightup,exampleSentence,i would like all the lights on when i enter
+iot_hue_lightup,exampleSentence,its dark in here mind turning up the light intensity
+iot_hue_lightup,exampleSentence,brighten the lights in the hallway
+iot_hue_lightup,exampleSentence,do more light
+iot_hue_lightup,exampleSentence,brighten the lights please
+iot_hue_lightup,exampleSentence,brighten light
+iot_hue_lightup,exampleSentence,can you turn up the lights
+iot_hue_lightup,exampleSentence,please brighten the room
+iot_hue_lightup,exampleSentence,can you increase the brightness in the room
+iot_hue_lightup,exampleSentence,turn up the lights in the living room
+iot_hue_lightup,exampleSentence,increase the brightness of the light it is hard to see down here
+iot_hue_lightup,exampleSentence,i need the lights raised can you do that
+iot_hue_lightup,exampleSentence,bring up all the runner lights
+iot_hue_lightup,exampleSentence,raise lights to full power
+iot_hue_lightup,exampleSentence,turn the lights higher
+iot_hue_lightup,exampleSentence,raise the lights
+iot_hue_lightup,exampleSentence,turn the lights brighter
+iot_hue_lightup,exampleSentence,please increase the light
+iot_hue_lightup,exampleSentence,increase brightness by twenty percent
+iot_hue_lightup,exampleSentence,brighten the light at seventy percent
+iot_hue_lightup,exampleSentence,brighten living room lights
+iot_hue_lightup,exampleSentence,make it brighter in here
+audio_volume_down,exampleSentence,turn the volume down
+audio_volume_down,exampleSentence,I need the volume to be quieter
+audio_volume_down,exampleSentence,turn the music lower
+audio_volume_down,exampleSentence,decrease volume to very soft
+audio_volume_down,exampleSentence,down
+audio_volume_down,exampleSentence,lower the volume to twenty
+audio_volume_down,exampleSentence,Turn down volume
+audio_volume_down,exampleSentence,Please lower the volume
+audio_volume_down,exampleSentence,start the radio now on low volume
+audio_volume_down,exampleSentence,lessen the speaker volume
+audio_volume_down,exampleSentence,no no turn it down
+audio_volume_down,exampleSentence,please decrease the volume of music player
+audio_volume_down,exampleSentence,lower audio
+audio_volume_down,exampleSentence,softer
+audio_volume_down,exampleSentence,could you please lower your volume
+audio_volume_down,exampleSentence,please lower music volume
+audio_volume_down,exampleSentence,turn down the speakers
+audio_volume_down,exampleSentence,slow the volume speaker
+audio_volume_down,exampleSentence,turn the speakers down to five percent
+audio_volume_down,exampleSentence,turn the volume down a little please
+audio_volume_down,exampleSentence,decrease the volume
+audio_volume_down,exampleSentence,turn down the volume
+audio_volume_down,exampleSentence,turn down volume twenty percent
+audio_volume_down,exampleSentence,lower the volume please
+audio_volume_down,exampleSentence,lower the volume of the speakers
+audio_volume_down,exampleSentence,lower speaker volume
+audio_volume_down,exampleSentence,you're too loud
+audio_volume_down,exampleSentence,please change the volume low of the speakers
+audio_volume_down,exampleSentence,please slow down volume of speaker
+audio_volume_down,exampleSentence,lower all volume on speakers please
+iot_hue_lighton,exampleSentence,i can't see anything
+iot_hue_lighton,exampleSentence,it is dark
+iot_hue_lighton,exampleSentence,switch on all the lights
+iot_hue_lighton,exampleSentence,turn on all upstairs lights
+iot_hue_lighton,exampleSentence,turn the lights on full bright
+iot_hue_lighton,exampleSentence,it's too dark here
+iot_hue_lighton,exampleSentence,lights on
+iot_hue_lighton,exampleSentence,please turn on all the outdoor lights
+iot_hue_lighton,exampleSentence,turn on the lights that are outdoors
+iot_hue_lighton,exampleSentence,please turn on my balcony lights
+iot_hue_lighton,exampleSentence,turn corner light on
+iot_hue_lighton,exampleSentence,please turn the lights on
+iot_hue_lighton,exampleSentence,please turn on the lights in my house
+iot_hue_lighton,exampleSentence,It's too dark in here
+iot_hue_lighton,exampleSentence,switch on the lights
+iot_hue_lighton,exampleSentence,light up the lights in the kitchen
+iot_hue_lighton,exampleSentence,overhead lights on please
+iot_hue_lighton,exampleSentence,turn on hall light
