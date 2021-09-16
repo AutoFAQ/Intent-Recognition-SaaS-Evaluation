@@ -1,6 +1,6 @@
 # Intent recognitiona SaaS evaluation
 
-This repo contains evaluation of Autofaq.ai, Cognigy, DialogFlow, Microsoft LUIS and Watson NLU services.
+This repo contains evaluation of Autofaq.ai, Cognigy, DialogFlow, Microsoft LUIS and IBM Watson Assistant NLU services.
 
 Data collected at September 2021.
 
@@ -8,7 +8,7 @@ Data collected at September 2021.
 
 Train and test data placed in data/ folder.
 Each SaaS reproduce results script placed in jupyter notebook.
-There is no Cognigy notebook because of sign in problem.
+There is no Cognigy notebook because of sign in problem, so we used their evaluation metrics from 2020.
 
 # Results
 
