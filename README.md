@@ -1,4 +1,4 @@
-# Intent recognitiona SaaS evaluation
+# Intent Recognition SaaS Evaluation
 
 This repo contains evaluation of Autofaq.ai, Cognigy, DialogFlow, Microsoft LUIS and IBM Watson Assistant NLU services.
 
