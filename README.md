@@ -26,4 +26,3 @@ There is no Cognigy notebook because of sign in problem, so we used their evalua
 1. Liu X. et al. Benchmarking natural language understanding services for building conversational agents //Increasing Naturalness and Flexibility in Spoken Dialogue Interaction. – Springer, Singapore, 2021. – С. 165-183.
 2. Dominik Seisser. Benchmarking NLU Engines: A Comparison of Market Leaders https://www.cognigy.com/blog/benchmarking-nlu-engines-comparing-market-leaders, 26 Nov. 2020
 3. Qi H. et al. Benchmarking Commercial Intent Detection Services with Practice-Driven Evaluations //Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Industry Papers. – 2021. – С. 304-310.
-4. Devlin J. et al. Bert: Pre-training of deep bidirectional transformers for language understanding //arXiv preprint arXiv:1810.04805. – 2018.
