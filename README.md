@@ -4,6 +4,8 @@ This repo contains evaluation of Autofaq.ai, Cognigy, DialogFlow, Microsoft LUIS
 
 Data collected at September 2021.
 
+Russian article about evaluation: https://habr.com/ru/company/croc/blog/580590/
+
 # Setup
 
 Train and test data placed in data/ folder.
