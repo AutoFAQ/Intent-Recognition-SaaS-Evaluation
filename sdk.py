@@ -190,20 +190,37 @@ class Client:
         response_json = self._post(query_url, request_payload)
         return response_json
 
+
 class QnaAPI:
     def __init__(self, api_url, service_id, service_token):
         self._api_url = api_url
         self._service_id = service_id
         self._service_token = service_token
+        self._session = requests.Session()
 
-    def query(self, text, session_id=None, expect_http_status=200):
-        logger.info(f'query {self._api_url} {text}')
-        r = requests.post(self._api_url + '/api/v1/query', json=dict(
-            query=text, service_id=self._service_id, service_token=self._service_token, session_id=session_id))
-        assert r.status_code == expect_http_status, f'response status {r.status_code} != {expect_http_status} expected'
-        logger.info(f'api_post response {pprint.pformat(r.json())}')
-        if expect_http_status == 200:
-            assert 'error' not in r.json()
-        else:
-            assert 'error' in r.json()
+    def close(self):
+        self._session.close()
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_value, traceback):
+        self.close()
+
+    def query(self, text, session_id=None, expect_http_status=200, params={}):
+        logger.debug(f'query {self._api_url} {text}')
+        orig_params = dict(
+            query=text, service_id=self._service_id, service_token=self._service_token, session_id=session_id
+        )
+        orig_params.update(params)
+        r = self._session.post(self._api_url + '/api/v1/query', json=orig_params)
+        logger.debug(f'api_post response {pprint.pformat(r.json())}')
+        if expect_http_status:
+            assert r.status_code == expect_http_status, \
+                f'response status {r.status_code} != {expect_http_status} expected'
+            if expect_http_status == 200:
+                assert 'error' not in r.json()
+            else:
+                assert 'error' in r.json()
+
         return r.json()
