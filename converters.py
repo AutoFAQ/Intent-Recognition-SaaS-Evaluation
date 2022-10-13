@@ -4,6 +4,7 @@ import shutil
 import os
 import hashlib
 import zipfile
+import pandas as pd
 
 
 def parse_data(path):
@@ -21,6 +22,21 @@ def parse_data(path):
                 docs[label] = {'question': sent, 'answer': label, 'name': label, 'paraphrased_questions': []}
             else:
                 docs[label]['paraphrased_questions'].append(sent)
+    return docs, X, y
+
+
+def parse_data_csv(path):
+    df = pd.read_csv(path)
+    X = []
+    y = []
+    docs = {}
+    for _, row in df.iterrows():
+        X.append(row['phrase'])
+        y.append(row['intent'])
+        if row['intent'] not in docs:
+            docs[row['intent']] = {'question': row['phrase'], 'answer': row['intent'], 'name': row['intent'], 'paraphrased_questions': []}
+        else:
+            docs[row['intent']]['paraphrased_questions'].append(row['phrase'])
     return docs, X, y
 
 
@@ -115,7 +131,7 @@ class LuisConverter(Converter):
         self.utterances.append({"text": sentence.text, "intent": sentence.intent, "entities": entities})
 
     def import_corpus(self, filepath, lang="en"):
-        docs, X, y = parse_data(filepath)
+        docs, X, y = parse_data_csv(filepath)
 
         self.name = filepath
         self.desc = filepath
@@ -148,7 +164,7 @@ class LuisConverter(Converter):
         luis_json["composites"] = []
         luis_json["closedLists"] = []
         luis_json["utterances"] = self.utterances
-        json_data = json.dumps(luis_json, indent=4, sort_keys=True)
+        json_data = json.dumps(luis_json, indent=4, sort_keys=True, ensure_ascii=False)
         self.write_json(filename, json_data)
 
 
@@ -215,7 +231,7 @@ class DialogflowConverter(Converter):
 
 
     def import_corpus(self, filepath, name, lang):
-        docs, X, y = parse_data(filepath)
+        docs, X, y = parse_data_csv(filepath)
 
         self.name = name
         self.desc = filepath

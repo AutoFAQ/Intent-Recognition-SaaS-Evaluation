@@ -124,7 +124,7 @@ class DialogflowAnalyser(Analyser):
         super(DialogflowAnalyser, self).__init__()
         self.app_id = app_id
         # Put your GOOGLE_APPLICATION_CREDENTIALS here (some.json")
-        os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = ""
+        os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = env_file
         self._session = '12312412'
 
     def get_annotations(self, test_sentences, language_code='en'):

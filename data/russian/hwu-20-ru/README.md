@@ -1,0 +1,1 @@
+Профессиональный перевод части датасета Heriot-Watt University HWU-64 (Benchmarking Natural Language Understanding Services for building Conversational Agents, Xingkun Liu, Arash Eshghi, Pawel Swietojanski and Verena Rieser https://arxiv.org/pdf/1903.05566.pdf).
