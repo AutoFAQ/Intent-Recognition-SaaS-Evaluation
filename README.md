@@ -40,6 +40,8 @@ This benchmark contains evaluation of Autofaq.ai, Cognigy, Google DialogFlow, IB
 
 Data collected at September 2022.
 
+Russian article about evaluation: https://habr.com/ru/company/rostelecom/blog/695402/
+
 
 ### Setup
 
